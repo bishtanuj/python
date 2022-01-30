@@ -7,14 +7,14 @@ list = []
 size = int(input("Enter the size of the list: "))
 
 # Scanning the list
-for i in range(0,size):
-    print("Element [",i,"]: ", end = "")
+for i in range(size):
+    print(f"Element [{i}]: ", end = "")
     element = int(input())
 
     list.append(element)
 
 # Printing the list
-print ("List: ")
+print ("List:")
 print (list)
 
 sum = 0
@@ -23,4 +23,4 @@ for element in range(0, size):
     sum = sum + list[element]
 
 # Printing addition of elements of list
-print("Addition: ", sum)
+print("Addition:", sum)
