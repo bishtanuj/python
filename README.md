@@ -1,4 +1,4 @@
-# Python <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+# Python <img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
 ## A bit about Python
 1. Pyhton was created by ***GUIDO VAN ROSSUM***, Dutch Programmer in 1991.
