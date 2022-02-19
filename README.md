@@ -12,4 +12,4 @@
 * Python works on different platforms.
 * Python syntax is similar to English.
 * Python code is of fewer lines.
-* Pyhton can be treated in a Procedural Programming way.
+* Python can be treated in a Procedural Programming way.
