@@ -10,4 +10,4 @@
 > _An interpreted language execute it's statements line by line. Language such as Python, Javascript, R, PHP and Ruby are the examples of interpreted language. Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step._
   
 ## Q3. What is PEP 8  and why it is important?
-> _PEP stands for Pyhton Enhancement Proposal. A PEP is an official design document providing infromation to the Python Community, or describing a new feature for Python or it's process. PEP 8 is especially important since it documents the style guidelines for the Python code. Apparently contributing to the Python open source community requires you to follow these style guidelines sincerely and strictly. 
+> _PEP stands for Pyhton Enhancement Proposal. A PEP is an official design document providing infromation to the Python Community, or describing a new feature for Python or it's process. PEP 8 is especially important since it documents the style guidelines for the Python code. Apparently contributing to the Python open source community requires you to follow these style guidelines sincerely and strictly._
