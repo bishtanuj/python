@@ -4,4 +4,4 @@
 <b><br>
 > ***Benefits of using Python***
 > * Python is a general purpose programming language that has a simple, easy to learn syntax that emphasizes readability and therefore reduces the cost of programming maintenance. Moreover, the language is capable of scripting, it is also completely open source and supports third paty packages encouraging modularity and code reuse.
-    
+> * Its high-level data structures, combined with dynamic typing and dynamic binding, attract a huge community of developers for Rapid Application Development and deployment.    
