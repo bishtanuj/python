@@ -20,5 +20,5 @@
 > * A **module level scope** refers to the global objects of the current module acccessible in the program.
 > * An **outermost scope** refers to all the built-in names callable in the program. The object in this scope are searched last to find the name referenced.
 ```md
-> ***Note:*** _Local scope objects can be synced with global scope objects using keywords such as ***global.***_
+Note: Local scope objects can be synced with global scope objects using keywords such as global.
 ```
