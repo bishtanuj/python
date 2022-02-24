@@ -32,4 +32,15 @@ Note: Local scope objects can be synced with global scope objects using keywords
   | --- | --- |
   |  NoneType  |Represents the **NULL** values in Python| 
   
+> 2. Numeric Types: <br>
+  There are three different numeric types - **integers, floating-point numbers, and complex numbers.** Additionaly, booleans are a sub-type of integers.
+  
+  | Class Name |  Description |
+  | --- | --- |
+  | int | Stores integer literals including hex, octal and binary numbers as integers |
+  | float | Stores literals containg decimal values and/or exponent signs as floating-point numbers |
+  | complex | Stores complex numbers in the form (A + Bi) and has attributes: `real` and `imag` |
+  | bool  | Stores boolean values (True or False) |
+  
+  
   
