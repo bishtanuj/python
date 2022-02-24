@@ -27,6 +27,7 @@ Note: Local scope objects can be synced with global scope objects using keywords
 <br><br>
 > 1. None Type: <br>
 > `None` keyword represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.<br>
+  
   | Class Name |  Description |
   | --- | --- |
   |  NoneType  |Represents the **NULL** values in Python| 
