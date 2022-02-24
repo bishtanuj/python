@@ -27,6 +27,7 @@ Note: Local scope objects can be synced with global scope objects using keywords
 <br><br>
 > 1. None Type: <br>
 > `None` keyword represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.
+  
 >  | Class Name |  Description |
 >  | --- | --- |
 >  |  NoneType  |Represents the **NULL** values in Python| 
@@ -34,24 +35,24 @@ Note: Local scope objects can be synced with global scope objects using keywords
 > 2. Numeric Types: <br>
   There are three different numeric types - **integers, floating-point numbers, and complex numbers.** Additionaly, booleans are a sub-type of integers.
   
-  | Class Name |  Description |
-  | --- | --- |
-  | int | Stores integer literals including hex, octal and binary numbers as integers |
-  | float | Stores literals containg decimal values and/or exponent signs as floating-point numbers |
-  | complex | Stores complex numbers in the form (A + Bi) and has attributes: `real` and `imag` |
-  | bool  | Stores boolean values (True or False) |
+>  | Class Name |  Description |
+>  | --- | --- |
+>  | int | Stores integer literals including hex, octal and binary numbers as integers |
+>  | float | Stores literals containg decimal values and/or exponent signs as floating-point numbers |
+>  | complex | Stores complex numbers in the form (A + Bi) and has attributes: `real` and `imag` |
+>  | bool  | Stores boolean values (True or False) |
 
   `Note: The standard library also includes fractions to store rational numbers and decimals to store floating-point numbers with user defined precision.`
 
 > 3. Sequence Types: <br>
   According to Python Documents, there are three basic Sequence Types - **list, tuples** and **range** objects. Sequence types have the `in` and `not in` operators defined for their travering their elements. These operators share the same priority as the comparison operations.
   
-  | Class Name  | Description |
-  | --- | --- |
-  | list  | Mutable sequence used to store the collection of items  |
-  | tuple | Immutable sequence used to store collection of items  |
-  | range | Represents an immutable sequence of numbers generated during execution  |
-  | str  |  Immutable sequence of Unicode code points to store textual data |
+>  | Class Name  | Description |
+>  | --- | --- |
+>  | list  | Mutable sequence used to store the collection of items  |
+>  | tuple | Immutable sequence used to store collection of items  |
+>  | range | Represents an immutable sequence of numbers generated during execution  |
+>  | str  |  Immutable sequence of Unicode code points to store textual data |
   
   ```md
   Note: The standard library also includes including additional types for processing:
