@@ -44,3 +44,18 @@ Note: Local scope objects can be synced with global scope objects using keywords
 
   `Note: The standard library also includes fractions to store rational numbers and decimals to store floating-point numbers with user defined precision.`
 
+> 3. Sequence Types: <br>
+  According to Python Documents, there are three basic Sequence Types - **list, tuples** and **range** objects. Sequence types have the `in` and `not in` operators defined for their travering their elements. These operators share the same priority as the comparison operations.
+  
+  | Class Name  | Description |
+  | --- | --- |
+  | list  | Mutable sequence used to store the collection of items  |
+  | tuple | Immutable sequence used to store collection of items  |
+  | range | Represents an immutable sequence of numbers generated during execution  |
+  | str  |  Immutable sequence of Unicode code points to store textual data |
+  
+  ```md
+  Note: The standard library also includes including additional types for processing:<br>
+  1.  **Binary data** such as `bytearray bytes`, `memeoryview` <br>
+  2.  **Text strings** such as `str`
+  ```
