@@ -55,7 +55,7 @@ Note: Local scope objects can be synced with global scope objects using keywords
   | str  |  Immutable sequence of Unicode code points to store textual data |
   
   ```md
-  Note: The standard library also includes including additional types for processing:<br>
-  1.  **Binary data** such as `bytearray bytes`, `memeoryview` <br>
-  2.  **Text strings** such as `str`
+  Note: The standard library also includes including additional types for processing:
+  1.  Binary data such as bytearray bytes, memeoryview
+  2.  Text strings such as str
   ```
