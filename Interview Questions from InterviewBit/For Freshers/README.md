@@ -26,7 +26,7 @@ Note: Local scope objects can be synced with global scope objects using keywords
 > _There are several built-in data types in Python. Although, Pyhton doesn't require data types to be defined explicitly during variable declarations type errors are likely to occur if knowledge of data types and their compatability with each other are neglected. Pyhton provides **`type()`** and **`isinstance()`** functions to check the type of these variables. These types can be grouped into the following categories:_
 <br><br>
 > 1. None Type: <br>
-> `None` keyword represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.<br>
+> `None` keyword represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.
   
   | Class Name |  Description |
   | --- | --- |
