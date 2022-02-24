@@ -42,5 +42,5 @@ Note: Local scope objects can be synced with global scope objects using keywords
   | complex | Stores complex numbers in the form (A + Bi) and has attributes: `real` and `imag` |
   | bool  | Stores boolean values (True or False) |
   ```md
-  Note: The standard library also includes **fractions** to store rational numbers and **decimals** to store floating-point numbers with user defined precision.
+  Note: The standard library also includes fractions to store rational numbers and decimals to store floating-point numbers with user defined precision.
   ``` 
