@@ -28,9 +28,9 @@ Note: Local scope objects can be synced with global scope objects using keywords
 > 1. None Type: <br>
 > `None` keyword represents the null values in Python. Boolean equality operation can be performed using these NoneType objects.
   
-  | Class Name |  Description |
-  | --- | --- |
-  |  NoneType  |Represents the **NULL** values in Python| 
+>  | Class Name |  Description |
+>  | --- | --- |
+>  |  NoneType  |Represents the **NULL** values in Python| 
   
 > 2. Numeric Types: <br>
   There are three different numeric types - **integers, floating-point numbers, and complex numbers.** Additionaly, booleans are a sub-type of integers.
