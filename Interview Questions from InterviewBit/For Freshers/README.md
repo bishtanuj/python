@@ -4,7 +4,7 @@
 <b><br>
 > ***Benefits of using Python***
 > * Python is a general purpose programming language that has a simple, easy to learn syntax that emphasizes readability and therefore reduces the cost of programming maintenance. Moreover, the language is capable of scripting, it is also completely open source and supports third paty packages encouraging modularity and code reuse.
-> * Its high-level data structures, combined with dynamic typing and dynamic binding, attract a huge community of developers for Rapid Application Development and deployment.***
+> * Its high-level data structures, combined with dynamic typing and dynamic binding, attract a huge community of developers for Rapid Application Development and deployment.
   
 ## Q2. What is Interpreted Language?   
 > _An interpreted language execute it's statements line by line. Language such as Python, Javascript, R, PHP and Ruby are the examples of interpreted language. Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step._
