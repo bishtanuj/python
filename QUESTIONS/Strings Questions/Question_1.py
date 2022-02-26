@@ -18,3 +18,7 @@ if __name__ == '__main__':
     count_frequency(string)
 
     
+# Output Sample
+# Enter a string: Hi, how are you?
+# The frequency of the elements in given string:
+# {'H': 1, 'i': 1, ',': 1, ' ': 3, 'h': 1, 'o': 2, 'w': 1, 'a': 1, 'r': 1, 'e': 1, 'y': 1, 'u': 1, '?': 1}
