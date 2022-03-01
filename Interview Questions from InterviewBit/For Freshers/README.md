@@ -78,4 +78,4 @@ Note: Local scope objects can be synced with global scope objects using keywords
 > **NOTE:** `set` is mutable and thus cannot be used as key for a dictionary. On the other hand, `frozenset` is immutable and thus, hashable, and can be used as a dictionary key or as an element of another set.
   
 > 6. Modules: <br>
-  Module is an addditional built-in type supported by the Pyhton Intepreter. It supports one special operation, i.e., **attribute access:** `mymod.myobj`, where `mymod` is a module and `myobj` refrences a name defined in m's symbol table. The module's symbol table resides in a very special attribute of the module **_dict_**, but direct assignment to this module is neither possible nor recommended.
+  Module is an addditional built-in type supported by the Pyhton Intepreter. It supports one special operation, i.e., **attribute access:** `mymod.myobj`, where `mymod` is a module and `myobj` refrences a name defined in m's symbol table. The module's symbol table resides in a very special attribute of the module `_dict_`, but direct assignment to this module is neither possible nor recommended.
