@@ -59,3 +59,23 @@ Note: Local scope objects can be synced with global scope objects using keywords
   1.  Binary data such as bytearray bytes, memeoryview
   2.  Text strings such as str
   ```
+
+> 4. Mapping Types: <br>
+  A mapping object can map hashable values to random objects in Python. Mappings objects are mutable and there is currently only one standard mapping type, the **dictionary**.
+  
+>  | Class Name  | Description |
+>  | --- | --- |
+>  | dict  | Stores comma-separated list of key: value pairs |
+ 
+> 5. Set Types: <br>
+  Currently, Python has two built-in set values -**set** and **frozenset.** **Set** type is mutable and supports methods like `add()` and `remove()` **frozenset** tyoe is immutable and can't be modiifed after creation.
+  
+>  | Class Name  | Description |
+>  | --- | --- |
+>  | set | Mutable unorderd collection of distinct hashable objects  |
+>  | frozenset | Immutable collection of distinct hashable objects |
+  
+> **NOTE:** `set` is mutable and thus cannot be used as key for a dictionary. On the other hand, `frozenset` is immutable and thus, hashable, and can be used as a dictionary key or as an element of another set.
+  
+> 6. Modules: <br>
+  Module is an addditional built-in type supported by the Pyhton Intepreter. It supports one special operation, i.e., **attribute access:** `mymod.myobj`, where `mymod` is a module and `myobj` refrences a name defined in m's symbol table. The module's symbol table resides in a very special attribute of the module **_dict_**, but direct assignment to this module is neither possible nor recommended.
