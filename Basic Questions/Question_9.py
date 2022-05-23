@@ -26,14 +26,14 @@ print("\nThe modified list: ")
 print(list_1)
 
 # Output
-Enter the number of elements to put in list: 5
-Element [ 0 ]: 1
-Element [ 1 ]: 2
-Element [ 2 ]: 3
-Element [ 3 ]: 4
-Element [ 4 ]: 5
-Original List: 
-[1, 2, 3, 4, 5]
+# Enter the number of elements to put in list: 5
+# Element [ 0 ]: 1
+# Element [ 1 ]: 2
+# Element [ 2 ]: 3
+# Element [ 3 ]: 4
+# Element [ 4 ]: 5
+# Original List: 
+# [1, 2, 3, 4, 5]
 
-The modified list: 
-[5, 2, 3, 4, 1]
+# The modified list: 
+# [5, 2, 3, 4, 1]
