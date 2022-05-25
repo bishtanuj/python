@@ -1,7 +1,7 @@
 # Python <img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
 ## A bit about Python
-1. Pyhton was created by ***GUIDO VAN ROSSUM***, Dutch Programmer in 1991.
+1. Python was created by ***GUIDO VAN ROSSUM***, Dutch Programmer in 1991.
 2. Python was first released on 20th February, 1991.
 3. Python is an Object-Oriented Programming Language.
 4. Python is an Open-Source Programming Language.
