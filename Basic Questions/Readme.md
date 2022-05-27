@@ -14,3 +14,6 @@
 **Q13)** [Write a program to reverse the elements of the list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_13.py)<br>
 **Q14)** [Write a program to multiply all the elements of list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_14.py)<br>
 **Q15)** [Write a program to find the smallest and largest element in the list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_15.py)<br>
+**Q16)** [Write a program to print first 5 even numbers using break statement](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_16.py)<br>
+**Q17)** [Write a program to print first 4 even numbers using continue statement](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_17.py)<br>
+**Q18)** [Write a program to count the number of characters in a string](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Question_18.py)<br>
