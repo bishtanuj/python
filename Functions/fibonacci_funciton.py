@@ -1,4 +1,4 @@
-# Write a program to print the fibonacci series using funciton
+# Write a program to print the fibonacci series using user defined funciton
 
 def fibonacci(n):
     if n == 0 or n == 1:
