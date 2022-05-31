@@ -1,4 +1,4 @@
-# Write a program to print the prime numbers in the given range by user using user defined function
+# Write a program to print the series of prime numbers in the given range by user using user defined function
 
 def prime(num_1, num_2):
     for number in range(num_1, num_2 + 1):
