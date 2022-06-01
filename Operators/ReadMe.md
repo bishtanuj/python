@@ -12,5 +12,5 @@ Python divides the operators in the following groups:
 * Bitwise Operators
 
 ## Arithmetic Operators
-**An arithmetic operators are used with numeric values to perform common mathematical opertations:**
+**An arithmetic operators are used with numeric values to perform common mathematical opertations:** <br>
 | **Operators** | **Name** | **Example** | **Program** |
