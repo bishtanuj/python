@@ -15,3 +15,5 @@ Python divides the operators in the following groups:
 **An arithmetic operators are used with numeric values to perform common mathematical opertations:** <br>
 | **Operators** | **Name** | **Example** | **Program** |
 |----|----|----|----|
+| + | Addition | a + b |  |
+|----|----|----|----|
