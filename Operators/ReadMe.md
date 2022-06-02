@@ -30,5 +30,9 @@ Python divides the operators in the following groups:
 | = | a = 0 | a = 0 | |
 | += | a += 5 | a = a + 5 | |
 | -= | a -= 5 | a = a - 5 | |
-| *= | a *= 5 | a = a * 5 | |
+| *= | a *= 5 | a = a * 5 | | 
+| /= | a /= 5 | a = a / 5 | |
+| %= | a %= 5 | a = a % 5 | |
+| //= | a //= 5 | a = a // 5 | |
+| **= | a **= 5 | a = a ** 5 | |
 
