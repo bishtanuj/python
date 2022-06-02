@@ -62,3 +62,18 @@ Python divides the operators in the following groups:
 | and | Returns True if both statements are true | a < 5 and a < 10 | |
 | or | Returns True if one of the statements is true | a < 5 or a == 5 | |
 | not | Reverse the result, returns False if the result is true | not(a < 5 and a < 10) | |
+
+
+## Identity Operators
+**Identify operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.** <br>
+| **Operators** | **Description** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: |
+| is | Return True if both variables are the same object | |
+| is not | Returns True if both variables are not same object | |
+
+## Membership Operators
+**Membership operators are operators used to validate the membership of a value. It test for a membership in a sequence such as strings, lists or tuples.** <br>
+| **Operators** | **Description** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: |
+| in | Check if value exists in a sequence or not. Evaluates to true if it finds the variable in the specified sequence and false otherwise | a in b | |
+| not in | Evaluates to true if it does not finds a variable in the specified sequence and false otherwise | a not in b | |
