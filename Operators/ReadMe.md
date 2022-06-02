@@ -22,3 +22,13 @@ Python divides the operators in the following groups:
 | // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/floor_division.py) |
 | % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/modulus.py) |
 | ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/exponentation.py) |
+
+## Assignment Operators
+**An assignment operator is the operator used to assign a new value to a variable.** <br>
+| **Operators** | **Example** | **Same As** | **Program** |
+| :---: | :---: | :---: | :---: |
+| = | a = 0 | a = 0 | |
+| += | a += 5 | a = a + 5 | |
+| -= | a -= 5 | a = a - 5 | |
+| *= | a *= 5 | a = a * 5 | |
+
