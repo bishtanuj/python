@@ -17,7 +17,7 @@ Python divides the operators in the following groups:
 | :---: | :---: | :---: | :---: |
 | + | Addition | a + b | [addition.py](https://github.com/bishtanuj/python/blob/main/Operators/addition.py) |
 | - | Subtraction | a - b | [subtraction.py](https://github.com/bishtanuj/python/blob/main/Operators/subtraction.py) |
-| * | Multiplication | a * b | |
+| * | Multiplication | a * b | [multiplication.py](https://github.com/bishtanuj/python/blob/main/Operators/multiplication.py) |
 | / | Division | a / b | |
 | // | Floor Division | a // b | |
 | % | Modulus | a % b | |
