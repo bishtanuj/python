@@ -11,6 +11,7 @@ Python divides the operators in the following groups:
 * Membership Operators
 * Bitwise Operators
 
+
 ## Arithmetic Operators
 **An arithmetic operators are used with numeric values to perform common mathematical opertations:** <br>
 | **Operators** | **Name** | **Example** | **Program** |
@@ -22,6 +23,7 @@ Python divides the operators in the following groups:
 | // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/floor_division.py) |
 | % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/modulus.py) |
 | ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/exponentation.py) |
+
 
 ## Assignment Operators
 **An assignment operator is the operator used to assign a new value to a variable.** <br>
@@ -40,6 +42,7 @@ Python divides the operators in the following groups:
 | 11. | >>= | a >>= 5 | a = a >> 5 | |
 | 12. | <<= | a <<= 5 | a = a << 5 | |
 
+
 ## Comparison Operators
 **Comparison operators can compare numbers or strings and perform evaluations. Expressions that use comparison operators do not return a number value as do arithmetic expressions. Comparison expressions returns either 1, which represents true or 0, which represents false.** <br>
 | **Operator** | **Name** | **Example** | **Program** |
@@ -50,3 +53,12 @@ Python divides the operators in the following groups:
 | < | Less Than | a < b | |
 | >= | Greater Than or Equal To | a >= b | |
 | <= | Less Than or Equal To | a <= b | |
+
+
+## Logical Operators
+**Logical expressions, like comparisons expressions, return 1 (True) or 0 (False) when processed. Logical operators combine two comparisons and return 1 or 0 depending on the results of the comparisons.** <br>
+| **Operators** | **Description** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: |
+| and | Returns True if both statements are true | a < 5 and a < 10 | |
+| or | Returns True if one of the statements is true | a < 5 or a == 5 | |
+| not | Reverse the result, returns False if the result is true | not(a < 5 and a < 10) | |
