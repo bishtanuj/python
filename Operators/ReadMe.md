@@ -25,17 +25,28 @@ Python divides the operators in the following groups:
 
 ## Assignment Operators
 **An assignment operator is the operator used to assign a new value to a variable.** <br>
-| **Operators** | **Example** | **Same As** | **Program** |
+| **S.No.** | **Operators** | **Example** | **Same As** | **Program** |
+| :---: | :---: | :---: | :---: | :---: |
+| 1. | = | a = 0 | a = 0 | |
+| 2. | += | a += 5 | a = a + 5 | |
+| 3. | -= | a -= 5 | a = a - 5 | |
+| 4. | *= | a *= 5 | a = a * 5 | | 
+| 5. | /= | a /= 5 | a = a / 5 | |
+| 6. | %= | a %= 5 | a = a % 5 | |
+| 7. | //= | a //= 5 | a = a // 5 | |
+| 8. | **= | a **= 5 | a = a ** 5 | |
+| 9. | &= | a &= 5 | a = a & 5 | |
+| 10. | ^= | a ^= 5 | a = a ^ 5 | |
+| 11. | >>= | a >>= 5 | a = a >> 5 | |
+| 12. | <<= | a <<= 5 | a = a << 5 | |
+
+## Comparison Operators
+**Comparison operators can compare numbers or strings and perform evaluations. Expressions that use comparison operators do not return a number value as do arithmetic expressions. Comparison expressions returns either 1, which represents true or 0, which represents false.** <br>
+| **Operator** | **Name** | **Example** | **Program** |
 | :---: | :---: | :---: | :---: |
-| = | a = 0 | a = 0 | |
-| += | a += 5 | a = a + 5 | |
-| -= | a -= 5 | a = a - 5 | |
-| *= | a *= 5 | a = a * 5 | | 
-| /= | a /= 5 | a = a / 5 | |
-| %= | a %= 5 | a = a % 5 | |
-| //= | a //= 5 | a = a // 5 | |
-| **= | a **= 5 | a = a ** 5 | |
-| &= | a &= 5 | a = a & 5 | |
-| ^= | a ^= 5 | a = a ^ 5 | |
-| >>= | a >>= 5 | a = a >> 5 | |
-| <<= | a <<= 5 | a = a << 5 | |
+| == | Equal | a == b | |
+| != | Not Equal | a != b | |
+| > | Greater Than | a > b | |
+| < | Less Than | a < b | |
+| >= | Greater Than or Equal To | a >= b | |
+| <= | Less Than or Equal To | a <= b | |
