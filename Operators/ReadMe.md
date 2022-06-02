@@ -68,8 +68,8 @@ Python divides the operators in the following groups:
 **Identify operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.** <br>
 | **Operators** | **Description** | **Example** | **Program** |
 | :---: | :---: | :---: | :---: |
-| is | Return True if both variables are the same object | |
-| is not | Returns True if both variables are not same object | |
+| is | Return True if both variables are the same object |a is b| |
+| is not | Returns True if both variables are not same object | a is not b | |
 
 ## Membership Operators
 **Membership operators are operators used to validate the membership of a value. It test for a membership in a sequence such as strings, lists or tuples.** <br>
