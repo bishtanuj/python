@@ -84,4 +84,8 @@ Python divides the operators in the following groups:
 | **Operators** | **Name** | **Description** | **Program** |
 | :---: | :---: | :---: | :---: |
 | & | AND | Sets each bit to 1 if both bits are 1 | |
-| l |
+| l | OR | Sets each bit to 1 if one of the two bits is 1 | |
+| ^ | XOR | Sets each bit to 1 if only one of two bits is 1 | |
+| ~ | NOT | Inverts all the bits | |
+| << | Zero fill left shift | Shift left by pushing zeroes in form the right and let the leftmost bits fall of | |
+| >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall of | |
