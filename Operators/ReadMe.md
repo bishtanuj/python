@@ -16,13 +16,13 @@ Python divides the operators in the following groups:
 **An arithmetic operators are used with numeric values to perform common mathematical opertations:** <br>
 | **Operators** | **Name** | **Example** | **Program** |
 | :---: | :---: | :---: | :---: |
-| + | Addition | a + b | [addition.py](https://github.com/bishtanuj/python/blob/main/Operators/addition.py) |
-| - | Subtraction | a - b | [subtraction.py](https://github.com/bishtanuj/python/blob/main/Operators/subtraction.py) |
-| * | Multiplication | a * b | [multiplication.py](https://github.com/bishtanuj/python/blob/main/Operators/multiplication.py) |
-| / | Division | a / b | [division.py](https://github.com/bishtanuj/python/blob/main/Operators/division.py) |
-| // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/floor_division.py) |
-| % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/modulus.py) |
-| ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/exponentation.py) |
+| + | Addition | a + b | [addition.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/addition.py) |
+| - | Subtraction | a - b | [subtraction.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/subtraction.py) |
+| * | Multiplication | a * b | [multiplication.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/multiplication.py) |
+| / | Division | a / b | [division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/division.py) |
+| // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/floor_division.py) |
+| % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/modulus.py) |
+| ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/exponentation.py) |
 
 
 ## Assignment Operators
