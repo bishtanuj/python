@@ -77,3 +77,10 @@ Python divides the operators in the following groups:
 | :---: | :---: | :---: | :---: |
 | in | Check if value exists in a sequence or not. Evaluates to true if it finds the variable in the specified sequence and false otherwise | a in b | |
 | not in | Evaluates to true if it does not finds a variable in the specified sequence and false otherwise | a not in b | |
+
+
+## Bitwise Operators
+**Bitwise operators are operators used to compare (binary) numbers.**
+| **Operators** | **Name** | **Description** | **Program** |
+| :---: | :---: | :---: | :---: |
+| & | AND | Sets each bit to 1 if both bits are 1 | |
