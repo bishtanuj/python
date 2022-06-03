@@ -84,3 +84,4 @@ Python divides the operators in the following groups:
 | **Operators** | **Name** | **Description** | **Program** |
 | :---: | :---: | :---: | :---: |
 | & | AND | Sets each bit to 1 if both bits are 1 | |
+| l |
