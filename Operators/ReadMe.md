@@ -29,19 +29,19 @@ Python divides the operators in the following groups:
 **An assignment operator is the operator used to assign a new value to a variable.** <br>
 | **S.No.** | **Operators** | **Example** | **Same As** | **Program** |
 | :---: | :---: | :---: | :---: | :---: |
-| 1. | = | a = 0 | a = 0 | |
-| 2. | += | a += 5 | a = a + 5 | |
-| 3. | -= | a -= 5 | a = a - 5 | |
-| 4. | *= | a *= 5 | a = a * 5 | | 
-| 5. | /= | a /= 5 | a = a / 5 | |
-| 6. | %= | a %= 5 | a = a % 5 | |
-| 7. | //= | a //= 5 | a = a // 5 | |
-| 8. | **= | a **= 5 | a = a ** 5 | |
-| 9. | l= | a l= 5 | a = a l 5 | |
-| 10. | &= | a &= 5 | a = a & 5 | |
-| 11. | ^= | a ^= 5 | a = a ^ 5 | |
-| 12. | >>= | a >>= 5 | a = a >> 5 | |
-| 13. | <<= | a <<= 5 | a = a << 5 | |
+| 1. | = | a = 0 | a = 0 | [assignment_op_1.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_1.py) |
+| 2. | += | a += 5 | a = a + 5 | [assignment_op_2.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_2.py) |
+| 3. | -= | a -= 5 | a = a - 5 | [assignment_op_3.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_3.py) |
+| 4. | *= | a *= 5 | a = a * 5 | [assignment_op_4.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_4.py) | 
+| 5. | /= | a /= 5 | a = a / 5 | [assignment_op_5.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_5.py) |
+| 6. | %= | a %= 5 | a = a % 5 | [assignment_op_6.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_6.py) |
+| 7. | //= | a //= 5 | a = a // 5 | [assignment_op_7.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_7.py) |
+| 8. | **= | a **= 5 | a = a ** 5 | [assignment_op_8.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_8.py) |
+| 9. | l= | a l= 5 | a = a l 5 | [assignment_op_9.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_9.py) |
+| 10. | &= | a &= 5 | a = a & 5 | [assignment_op_10.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_10.py) |
+| 11. | ^= | a ^= 5 | a = a ^ 5 | [assignment_op_11.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_11.py) |
+| 12. | >>= | a >>= 5 | a = a >> 5 | [assignment_op_12.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_12.py) |
+| 13. | <<= | a <<= 5 | a = a << 5 | [assignment_op_13.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_13.py) |
 
 
 ## Comparison Operators
