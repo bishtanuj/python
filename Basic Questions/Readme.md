@@ -17,3 +17,4 @@
 **Q16)** [Write a program to print first 5 even numbers using break statement](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_16.py)<br>
 **Q17)** [Write a program to print first 4 even numbers using continue statement](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_17.py)<br>
 **Q18)** [Write a program to count the number of characters in a string](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_18.py)<br>
+**Q19)** [Write a program to create a string, concatenate strings and perform following operations <br> 1. Check type cast of string <br> 2. Comparison of strings <br> 3. Slicing and Indexing <br> 4. Modification of Strings <br> 5. max(), len(), min(), join(), split(), capatialize(), strip(), rstrip(), lstrip()](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_19.py) <br>
