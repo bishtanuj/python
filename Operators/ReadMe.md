@@ -14,20 +14,20 @@ Python divides the operators in the following groups:
 
 ## Arithmetic Operators
 **An arithmetic operators are used with numeric values to perform common mathematical opertations:** <br>
-| **Operators** | **Name** | **Example** | **Program** |
-| :---: | :---: | :---: | :---: |
-| + | Addition | a + b | [addition.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/addition.py) |
-| - | Subtraction | a - b | [subtraction.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/subtraction.py) |
-| * | Multiplication | a * b | [multiplication.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/multiplication.py) |
-| / | Division | a / b | [division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/division.py) |
-| // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/floor_division.py) |
-| % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/modulus.py) |
-| ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/exponentation.py) |
+| **S. No.** | **Operators** | **Name** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: | :---: |
+| 1. | + | Addition | a + b | [addition.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/addition.py) |
+| 2. | - | Subtraction | a - b | [subtraction.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/subtraction.py) |
+| 3. | * | Multiplication | a * b | [multiplication.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/multiplication.py) |
+| 4. | / | Division | a / b | [division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/division.py) |
+| 5. | // | Floor Division | a // b | [floor_division.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/floor_division.py) |
+| 6. | % | Modulus | a % b | [modulus.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/modulus.py) |
+| 7. | ** | Exponentiation | a ** b | [exponentation.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/exponentation.py) |
 
 
 ## Assignment Operators
 **An assignment operator is the operator used to assign a new value to a variable.** <br>
-| **S.No.** | **Operators** | **Example** | **Same As** | **Program** |
+| **S. No.** | **Operators** | **Example** | **Same As** | **Program** |
 | :---: | :---: | :---: | :---: | :---: |
 | 1. | = | a = 0 | a = 0 | [assignment_op_1.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_1.py) |
 | 2. | += | a += 5 | a = a + 5 | [assignment_op_2.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/assignment_op_2.py) |
@@ -46,14 +46,14 @@ Python divides the operators in the following groups:
 
 ## Comparison Operators
 **Comparison operators can compare numbers or strings and perform evaluations. Expressions that use comparison operators do not return a number value as do arithmetic expressions. Comparison expressions returns either 1, which represents true or 0, which represents false.** <br>
-| **Operator** | **Name** | **Example** | **Program** |
-| :---: | :---: | :---: | :---: |
-| == | Equal | a == b | |
-| != | Not Equal | a != b | |
-| > | Greater Than | a > b | |
-| < | Less Than | a < b | |
-| >= | Greater Than or Equal To | a >= b | |
-| <= | Less Than or Equal To | a <= b | |
+| **S. No.** | **Operator** | **Name** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: | :---: |
+| 1. | == | Equal | a == b | [comparison_op_1.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_1.py) |
+| 2. | != | Not Equal | a != b | [comparison_op_2.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_2.py) |
+| 3. | > | Greater Than | a > b | [comparison_op_3.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_3.py) |
+| 4. | < | Less Than | a < b | [comparison_op_4.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_4.py) |
+| 5. | >= | Greater Than or Equal To | a >= b | [comparison_op_5.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_5.py) |
+| 6. | <= | Less Than or Equal To | a <= b | [comparison_op_6.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/comparison_op_6.py) |
 
 
 ## Logical Operators
