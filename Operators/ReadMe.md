@@ -58,11 +58,11 @@ Python divides the operators in the following groups:
 
 ## Logical Operators
 **Logical expressions, like comparisons expressions, return 1 (True) or 0 (False) when processed. Logical operators combine two comparisons and return 1 or 0 depending on the results of the comparisons.** <br>
-| **Operators** | **Description** | **Example** | **Program** |
-| :---: | :---: | :---: | :---: |
-| and | Returns True if both statements are true | a < 5 and a < 10 | |
-| or | Returns True if one of the statements is true | a < 5 or a == 5 | |
-| not | Reverse the result, returns False if the result is true | not(a < 5 and a < 10) | |
+| **S. No.** | **Operators** | **Description** | **Example** | **Program** |
+| :---: | :---: | :---: | :---: | :---: |
+| 1. | and | Returns True if both statements are true | a < 5 and a < 10 | [logical_op_1.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/logical_op_1.py) |
+| 2. | or | Returns True if one of the statements is true | a < 5 or a == 5 | [logical_op_2.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/logical_op_2.py) |
+| 3. | not | Reverse the result, returns False if the result is true | not(a < 5 and a < 10) | [logical_op_3.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/logical_op_3.py) |
 
 
 ## Identity Operators
