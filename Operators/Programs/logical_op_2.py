@@ -7,16 +7,16 @@ num = int(input("Enter a number: "))
 print("Conclusion:",num < 5 or num == 5)
 
 
-OUTPUT
-Enter a number: 3
-Conclusion: True
+# OUTPUT
+# Enter a number: 3
+# Conclusion: True
 
   
-OUTPUT
-Enter a number: 5
-Conclusion: True
+# OUTPUT
+# Enter a number: 5
+# Conclusion: True
 
   
-OUTPUT
-Enter a number: 6
-Conclusion: False
+# OUTPUT
+# Enter a number: 6
+# Conclusion: False
