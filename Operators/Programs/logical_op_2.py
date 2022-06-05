@@ -4,7 +4,7 @@
 num = int(input("Enter a number: "))
 
 # Printing the result
-print("Conclusion:",num < 5 or num == 5)
+print("Conclusion:", num < 5 or num == 5)
 
 
 # OUTPUT
