@@ -4,7 +4,7 @@
 num = int(input("Enter a number: "))
 
 # Printing the result
-print("Conclusion:",not(num < 5 and num < 10))
+print("Conclusion:", not(num < 5 and num < 10))
 
 
 # OUTPUT
