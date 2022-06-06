@@ -7,39 +7,40 @@ print("3.   Product")
 print("4.   Division")
 print("5.   Exponent")
 print("6.   EXIT")
+while(1):
+    choice = int(input("Enter your choice: "))
 
-choice = int(input("Enter your choice: "))
-
-if(choice == 1):
-    x = int(input("Enter first number: "))
-    y = int(input("Enter second number: "))
-    sum = x + y
-    print("Addition:",sum)
-elif(choice == 2):
-    x = int(input("Enter first number: "))
-    y = int(input("Enter second number: "))
-    subtraction = x - y
-    print("Subtraction: ",subtraction)
-elif(choice == 3):
-    x = int(input("Enter multiplicand: "))
-    y = int(input("Enter multipler: "))
-    product = x * y
-    print("Product:",product)
-elif(choice == 4):
-    x = int(input("Enter divident: "))
-    y = int(input("Enter divisor: "))
-    if(y > x):
-        division = x / y
-        print("Division:",division)
+    if(choice == 1):
+        x = int(input("Enter first number: "))
+        y = int(input("Enter second number: "))
+        sum = x + y
+        print("Addition:",sum)
+    elif(choice == 2):
+        x = int(input("Enter first number: "))
+        y = int(input("Enter second number: "))
+        subtraction = x - y
+        print("Subtraction: ",subtraction)
+    elif(choice == 3):
+        x = int(input("Enter multiplicand: "))
+        y = int(input("Enter multipler: "))
+        product = x * y
+        print("Product:",product)
+    elif(choice == 4):
+        x = int(input("Enter divident: "))
+        y = int(input("Enter divisor: "))
+        if(y > x):
+            division = x / y
+            print("Division:",division)
+        else:
+            division = x // y
+            print("Division:",division)
+    elif(choice == 5):
+        x = int(input("Enter the number: "))
+        y = int(input("Enter the power: "))
+        exponent = x ** y
+        print("Exponent:",exponent)    
+    elif(choice == 6):
+        print("Thanks for using")
+        exit()
     else:
-        division = x // y
-        print("Division:",division)
-elif(choice == 5):
-    x = int(input("Enter the number: "))
-    y = int(input("Enter the power: "))
-    exponent = x ** y
-    print("Exponent:",exponent)    
-elif(choice == 6):
-    print("Thanks for using")
-else:
-    print("!! Enter right choice !!")
+        print("!! Enter right choice !!")
