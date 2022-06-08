@@ -12,4 +12,4 @@ Boolean Type: &nbsp;&ensp; `bool` <br>
 Binary Type: &ensp;&emsp; `bytes`, `bytearray`, `memoryview` <br>
 None Type: &emsp;&emsp; `NoneType` <br>
 
-<img width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Python_3._The_standard_type_hierarchy.png/636px-Python_3._The_standard_type_hierarchy.png"> 
+<img style="width:50%;" width=400px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Python_3._The_standard_type_hierarchy.png/636px-Python_3._The_standard_type_hierarchy.png"> 
