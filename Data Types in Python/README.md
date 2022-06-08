@@ -2,7 +2,7 @@
 > In computer science, a data type or simply type is an attribute of data which tells the compiler or interpreter how the programmer intend to use the data.
 
 <br><br>
-Python has the following built-in data types <br><br>
+Python has the following built-in data types <br>
 | Data Type | |
 | :---: | :---: |
 | Text Type | `str` |
