@@ -3,7 +3,7 @@
 
 <br><br>
 Python has the following built-in data types <br><br>
-Text Type: &ensp; `str` <br>
+Text Type: &emsp; `str` <br>
 Numeric Type: &ensp; `int`, `float`, `complex` <br>
 Sequence Type: &ensp; `list`, `tuple`, `range` <br>
 Mapping Type: &ensp; `dict` <br>
