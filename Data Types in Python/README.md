@@ -6,7 +6,7 @@ Python has the following built-in data types <br><br>
 Text Type: &emsp;&emsp;&emsp; `str` <br>
 Numeric Type: &emsp; `int`, `float`, `complex` <br>
 Sequence Type: &ensp; `list`, `tuple`, `range` <br>
-Mapping Type: &emsp; `dict` <br>
+Mapping Type: &nbsp; `dict` <br>
 Set Type: &emsp;&emsp;&emsp; `set`, `frozenset` <br>
 Boolean Type: &ensp; `bool` <br>
 Binary Type: &ensp; `bytes`, `bytearray`, `memoryview` <br>
