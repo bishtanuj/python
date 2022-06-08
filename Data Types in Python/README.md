@@ -3,7 +3,8 @@
 
 <br><br>
 Python has the following built-in data types <br><br>
-Text Type: `str`
+Text Type: `str` <br>
+Numeric Type: `int`, `float`, `complex`
 <!-- Text Type: ``str`` <br>
 Numeric Type: `int`, `float`, `complex` <br> -->
 <!-- <img width=1000px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Python_3._The_standard_type_hierarchy.png/636px-Python_3._The_standard_type_hierarchy.png"> -->
