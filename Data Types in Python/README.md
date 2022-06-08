@@ -3,13 +3,14 @@
 
 <br><br>
 Python has the following built-in data types <br><br>
-Text Type: &emsp;&emsp;&emsp; `str` <br>
-Numeric Type: &emsp; `int`, `float`, `complex` <br>
-Sequence Type: &ensp; `list`, `tuple`, `range` <br>
-Mapping Type: &emsp; `dict` <br>
-Set Type: &emsp;&emsp;&emsp;&ensp; `set`, `frozenset` <br>
-Boolean Type: &nbsp;&emsp; `bool` <br>
-Binary Type: &ensp;&emsp; `bytes`, `bytearray`, `memoryview` <br>
-None Type: &emsp;&emsp; `NoneType` <br>
-
+| Data Type | |
+| :---: | :---: |
+| Text Type | `str` |
+| Numeric Type | `int`, `float`, `complex` |
+| Sequence Type | `list`, `tuple`, `range` |
+| Mapping Type | `dict` |
+| Set Type | `set`, `frozenset` |
+| Boolean | `bool` |
+| Binary Type | `bytes`, `bytearray`, `memoryview` |
+| None Type | `NoneType` |
 <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Python_3._The_standard_type_hierarchy.png/636px-Python_3._The_standard_type_hierarchy.png"> 
