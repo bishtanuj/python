@@ -1,7 +1,7 @@
 # Write a program to perform linear search
 
 # function to perform linear search on the list
-def linearSearch(list_1, size, key):
+def linear_search(list_1, size, key):
     for i in range(size):
         if list_1[i] == key:
             return i
@@ -28,8 +28,8 @@ print(list_1)
 # scanning the key element to find in the list
 key = int(input("Enter an element to find in list: "))
 
-# calling the linearSearch() function
-result = linearSearch(list_1, size, key)
+# calling the linear_search() function
+result = linear_search(list_1, size, key)
 
 # printing the conclusion
 if result == -1:
