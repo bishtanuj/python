@@ -23,7 +23,7 @@ print("Exponent: ", exponent)
 print("Modulus: ", modulus)
 
 
-# # OUTPUT
+# OUTPUT
 # Enter first number: 8
 # Enter second number: 6
 # Addition:  14
