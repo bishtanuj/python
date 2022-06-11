@@ -21,3 +21,15 @@ print("Division: ", division)
 print("Floor Division: ", floor_division)
 print("Exponent: ", exponent)
 print("Modulus: ", modulus)
+
+
+# # OUTPUT
+# Enter first number: 8
+# Enter second number: 6
+# Addition:  14
+# Subtraction:  2
+# Product:  48
+# Division:  1.3333333333333333
+# Floor Division:  1
+# Exponent:  262144
+# Modulus:  2
