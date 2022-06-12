@@ -17,4 +17,15 @@ print(type(d))
 print(type(e))
 print(type(f))
 print(type(g))
-print(type(h))
+# print(type(h))
+
+
+# OUTPUT
+# <class 'int'>
+# <class 'str'>
+# <class 'float'>
+# <class 'list'>
+# <class 'set'>
+# <class 'tuple'>
+# <class 'dict'>
+# <class 'bool'>
