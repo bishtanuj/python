@@ -7,3 +7,9 @@ if num_1 < num_2:
     print(num_1, "is a smallest number")
 else:
     print(num_2, "is a smallest number")
+    
+    
+# OUTPUT
+# Enter first number: 36
+# Enter second number: 49
+# 36 is a smallest number
