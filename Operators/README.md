@@ -76,8 +76,8 @@ Python divides the operators in the following groups:
 **Membership operators are operators used to validate the membership of a value. It test for a membership in a sequence such as strings, lists or tuples.** <br>
 | **Operators** | **Description** | **Example** | **Program** |
 | :---: | :---: | :---: | :---: |
-| in | Check if value exists in a sequence or not. Evaluates to true if it finds the variable in the specified sequence and false otherwise | a in b | |
-| not in | Evaluates to true if it does not finds a variable in the specified sequence and false otherwise | a not in b | |
+| in | Check if value exists in a sequence or not. Evaluates to true if it finds the variable in the specified sequence and false otherwise | a in b | [membership_op_1.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/membership_op_1.py) |
+| not in | Evaluates to true if it does not finds a variable in the specified sequence and false otherwise | a not in b | [membership_op_2.py](https://github.com/bishtanuj/python/blob/main/Operators/Programs/membership_op_2.py) |
 
 
 ## Bitwise Operators
