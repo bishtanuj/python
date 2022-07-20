@@ -1,80 +1,86 @@
 # Program to make temperature convertor
 
-# Function to convert celcius to fahrenheit
-def celcius_fahrenheit():
-    celcius = float(input("Enter the temperature in celcius: "))
+# Function to convert celsius to fahrenheit
+def celsius_fahrenheit():
+    celsius = float(input("Enter the temperature in celsius: "))
 
-    fahrenheit = ((celcius * 9) / 5) + 32
-    print("Temperature in Fahrenheit:",fahrenheit)
+    fahrenheit = ((celsius * 9) / 5) + 32
+    print("Temperature in Fahrenheit:", fahrenheit)
 
-# Function to convert fahrenheit to celcius
-def fahrenheit_celcius():
+
+# Function to convert fahrenheit to celsius
+def fahrenheit_celsius():
     fahrenheit = float(input("Enter the temperature in Fahrenheit: "))
 
-    celcius = ((fahrenheit - 32) * 5) / 9
-    print("Temperature in Celcius:",celcius)
+    celsius = ((fahrenheit - 32) * 5) / 9
+    print("Temperature in Celsius:", celsius)
 
-# Function to convert kelvin to celcius
-def kelvin_celcius():
+
+# Function to convert kelvin to Celsius
+def kelvin_celsius():
     kelvin = float(input("Enter the temperature in Kelvin: "))
 
-    celcius = (kelvin - 273.15)
-    print("Temperature in Celcius:",celcius)
+    celsius = (kelvin - 273.15)
+    print("Temperature in celsius:", celsius)
 
-# Function to convert celcius to kelvin
-def celcius_kelvin():
-    celcius = float(input("Enter the temperature in celcius: "))
-    
-    kelvin = celcius + 273.15
-    print("Temperature in Kelvin:",kelvin)
+
+# Function to convert celsius to kelvin
+def celsius_kelvin():
+    celsius = float(input("Enter the temperature in celsius: "))
+
+    kelvin = celsius + 273.15
+    print("Temperature in Kelvin:", kelvin)
+
 
 # Function to convert kelvin to fahrenheit
 def kelvin_fahrenheit():
     kelvin = float(input("Enter the temperature in kelvin: "))
 
     fahrenheit = (((kelvin - 273.15) * 9) / 5) + 32
-    print("Temperature in fahrenheit:",fahrenheit)
+    print("Temperature in fahrenheit:", fahrenheit)
+
 
 # Function to convert fahrenheit to kelvin
 def fahrenheit_kelvin():
     fahrenheit = float(input("Enter the temperature in fahrenheit: "))
 
     kelvin = (((fahrenheit - 32) * 5) / 9) + 273.15
-    print("Temperature in Kelvin:",kelvin)
+    print("Temperature in Kelvin:", kelvin)
+
 
 choice = 1
-while(choice != 7):
+while choice != 7:
     print("\n*** Temperature Convertor ***")
-    print("1.   Celcius to Fahrenheit")
-    print("2.   Fahrenheit to Celcius")
-    print("3.   Kelvin to Celcius")
-    print("4.   Celcius to Kelvin")
+    print("1.   celsius to Fahrenheit")
+    print("2.   Fahrenheit to celsius")
+    print("3.   Kelvin to celsius")
+    print("4.   celsius to Kelvin")
     print("5.   Kelvin to Fahrenheit")
     print("6.   Fahrenheit to Kelvin")
     print("7.   EXIT")
 
     choice = int(input("Enter Your Choice: "))
 
-    if(choice == 1):
-        celcius_fahrenheit()
-    
-    elif(choice == 2):
-        fahrenheit_celcius()
-    
-    elif(choice == 3):
-        kelvin_celcius()
-    
-    elif(choice == 4):
-        celcius_kelvin()
+    if choice == 1:
+        celsius_fahrenheit()
 
-    elif(choice == 5):
+    elif choice == 2:
+        fahrenheit_celsius()
+
+    elif choice == 3:
+        kelvin_celsius()
+
+    elif choice == 4:
+        celsius_kelvin()
+
+    elif choice == 5:
         kelvin_fahrenheit()
-    
-    elif(choice == 6):
+
+    elif choice == 6:
         fahrenheit_kelvin()
 
-    elif(choice == 7):
+    elif choice == 7:
         print("Thanks For Using")
-    
+
     else:
         print("!! Enter Right Choice !!")
