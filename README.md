@@ -7,7 +7,7 @@
 4. Python is an Open-Source Programming Language.
 5. Python is an Interpreted Language.
 6. Python is a High-Level Language.
-7. Pyhton is portable.
+7. Python is portable.
 
 ## Why Python?
 * Python works on different platforms.
