@@ -11,5 +11,7 @@ Here are naming conventions for Python identifiers - <br>
 
 # Reserved Words
 The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only. <br><br>
-`md`
-and
+```md
+and   exec    not
+assert    finally   or
+```
