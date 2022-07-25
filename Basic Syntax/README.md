@@ -10,7 +10,7 @@ Here are naming conventions for Python identifiers - <br>
 * If the identifier also ends with two trailing underscores, the identifier is a language - defined special name.
 
 # Reserved Words
-The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only. <br>
+The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only. <br><br>
 | :---: | :---: | :---: |
 | and | exec | not |
 | assert | finally | or |
