@@ -68,3 +68,46 @@ sentence = "This is a sentence."
 paragraph = """This is a paragraph. It is
 made up of multiple lines and sentences."""
 ```
+
+# Comments in Python
+A high sign (#) that is not inside a string literal begins a comment. All characters after the # and up to the end of the physical line are part of the comment and the Python interpreter ignores them.
+```md
+# First comment
+print("Hello, Python!") # second comment
+```
+This produces like following result - 
+```md
+Hello, Python!
+```
+You can type a comment on the same line after a statement or expression -
+```md
+name = "Anuj Bisht" # This is a comment
+```
+You can comment multiple lines as follows - 
+```md
+# This is a comment.
+# This is a comment, too.
+```
+Following triple-quoted string is also ignored by Python interpreter and can be used as a mutiline comments:
+```md
+'''
+This is a multiline
+comment.
+'''
+```
+
+# Using Blank Lines
+A line containing only whitespace, possibly with a comment, is known as a blank line and Python totally ignores it. In an interactive interpreter session, you must enter an empty physical line to terminate a multiline statement.
+
+# Waiting for the user
+The following lone of the program displays the prompt, the statement saying, "Press the enter key to exit", and waits for the user to take the action - 
+```md
+input("nnPress the enter key to exit.")
+```
+Here, <b> "nn"  </b> is used to create two new lines before displaying the actual line. Once the user presses the key, the program ends. This is a nice trick to keep a console window open until the user is done with an application.
+
+# Multiple Statements on a Single Line
+The semicolon (;) allows multiple statements on the single line given that neither statement starts a new code block. Here is a new code block. Here is a sample snip using the semicolon -
+```md
+import sys; x = 'foo'; sys.stdout.write(x + 'n')
+```
