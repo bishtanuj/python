@@ -111,3 +111,37 @@ The semicolon (;) allows multiple statements on the single line given that neith
 ```md
 import sys; x = 'foo'; sys.stdout.write(x + 'n')
 ```
+
+# Multiple Statement Groups as Suites
+A group of individual statements, which, make a single code block are called suites in Python. Compound or complex statements, such as if, while, def, and class require a header line and a suite.
+Header lines begin the statement (with the keyword) and terminate with a colon (:) and are followed by one or more lines which make up the suite. For example - 
+```md
+if expression:
+suite
+elif expression:
+suite
+else:
+suite
+```
+
+# Command Line Arguments
+Many programs can be run to provide you with some basic information about how they should be run. Python enables you to do this with-h -
+```md
+>python -h
+usage: python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Options and arguments (and corresponding environment variables):
+-b     : issue warnings and str(bytes_instance), str(bytearray_instance)
+and comparing bytes/bytearray with str. (-bb: issue errors)
+-B     : don't write .pyc files on import; also PYTHONDONTWRITEBYTECODE=x
+-c cmd : program passed in as string (terminates option list)
+-d     : debug output from parser; also PYTHONDEBUG=x
+-E     : ignore PYTHON* environment variables (such as PYTHONPATH)
+-h     : print this help message and exit (also --help)
+-i     : inspect interactively after running script; forces a prompt even
+if stdin does not appear to be a terminal; also PYTHONINSPECT=x
+-I     : isolate Python from the user's environment (implies -E and -s)
+-m mod : run library module as a script (terminates option list)
+-O     : remove assert and __debug__-dependent statements; add .opt-1 before
+.pyc extension; also PYTHONOPTIMIZE=x
+[ etc. ]
+```
