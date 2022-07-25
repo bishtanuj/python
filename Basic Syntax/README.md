@@ -41,3 +41,30 @@ print("10 is not greater than 5")
 ^
 IndentationError: expected an indented block
 ```
+
+# Multi - Line Statements
+Statements in Python typically end with a new line. Python does, however, allow the use of the line continuation character () to denote that the line should continue. For example - <br>
+```md
+total = 5 +
+10 +
+30
+print(total)
+```
+Statements contained within the [], {}, or () brackets do not need to use the line continuation character. For example - <br>
+```md
+months = ['Jan', 'Feb', 'March',
+'Apr', 'May', 'Jun',
+'Jul', 'Aug', 'Sept',
+'Oct', 'Nov', 'Dec']
+print(months)
+```
+
+# Quotation in Python
+Python accepts single ('), double (") and triple (" or """) quotes to denote string literals, as long as the same type of quote starts and ends the string. <br>
+The triple quotes are used to span the string across multiple lines. For example, all the following are legal - <br>
+```md
+word = 'word'
+sentence = "This is a sentence."
+paragraph = """This is a paragraph. It is
+made up of multiple lines and sentences."""
+```
