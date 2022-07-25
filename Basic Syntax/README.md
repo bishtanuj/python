@@ -12,26 +12,17 @@ Here are naming conventions for Python identifiers - <br>
 # Reserved Words
 The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only. <br><br>
 ```md
-1. and
-2. assert 
-3. break
-4. class
-5. continue
-6. def
-7. del
-8. elif
-9. else
-10. except
-11. exec
-12. finally
-13. for
-14. from
-15. global
-16. if
-17. import
-18. in
-19. is 
-20. lambda
+1. and                  11. exec          
+2. assert               12. finally
+3. break                13. for
+4. class                14. from
+5. continue             15. global
+6. def                  16. if
+7. del                  17. import
+8. elif                 18. in
+9. else                 19. is 
+10. except              20. lambda
+
 21. not
 22. or
 23. pass
