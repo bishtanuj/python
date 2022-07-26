@@ -22,7 +22,7 @@ Number data types store numeric values. Number objects are created when you assi
 num1 = 100
 num2 = 200.222
 ```
-*Python supports four different numerical types: <br>
+* Python supports four different numerical types: <br>
 1. int (signed integers) <br>
 2. long (long integers, they can also be represented in octal and hexadecimal) <br>
 3. float (floating point real values) <br>
