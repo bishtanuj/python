@@ -23,10 +23,10 @@ num1 = 100
 num2 = 200.222
 ```
 * Python supports four different numerical types: <br>
-1. int (signed integers) <br>
-2. long (long integers, they can also be represented in octal and hexadecimal) <br>
-3. float (floating point real values) <br>
-4. complex (complex numbers)
+&emsp; 1. int (signed integers) <br>
+&emsp; 2. long (long integers, they can also be represented in octal and hexadecimal) <br>
+&emsp; 3. float (floating point real values) <br>
+&emsp; 4. complex (complex numbers)
 
 ## Examples:
 Here are some examples of numbers: <br>
