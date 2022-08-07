@@ -24,5 +24,6 @@ Since Monty Python is considered one of the two fundamental nutrients to a progr
 ## Where can we see Python in action?
 We see it everyday and almost everywhere. It's used extenssively to implement complex <b>Internet services </b> like search engines, cloud storage and tools, social media and so on. Whenever you use any of these services, you are actually very close to Python, although you wouldn't know it.
 Many <b> developing tools </b> are implemented in Python. More and more <b> everyday use applications </b> are being written in Python. Lots of <b> scientists </b> have abandoned expensive proprietary tools and switched to Python. Lots of IT project <b> testers </b> have started using Python to carry out repeatable test procedures. The list is long.
+
 # :pray: Support
-This project needs a :star: from you. Don;t forget to leave a :star:.
+This project needs a :star: from you. Don't forget to leave a :star:.
