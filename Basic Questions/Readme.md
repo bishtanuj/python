@@ -20,4 +20,4 @@
 **Q19)** [Write a program to create a string, concatenate strings and perform following operations <br>&emsp;&emsp; 1. Check type cast of string <br>&emsp;&emsp; 2. Comparison of strings <br>&emsp;&emsp; 3. Slicing and Indexing <br>&emsp;&emsp; 4. Modification of Strings <br>&emsp;&emsp; 5. max(), len(), min(), join(), split(), capatialize(), strip(), rstrip(), lstrip()](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_19.py) <br>
 **Q20)** [Write a program to perform linear search](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_20.py)<br>
 **Q21)** [Write a program to perform binary search](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_21.py)<br>
-**Q22)** [Write a program to solve tower of hanoi]()<br>
+**Q22)** [Write a program to solve tower of hanoi](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_22.py)<br>
