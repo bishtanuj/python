@@ -1,5 +1,5 @@
 # Basic Questions of Python
-**Q1)** [Write a program to demonstrate different data types in Python](/"Questions Folder"/Question_1.py)<br>
+**Q1)** [Write a program to demonstrate different data types in Python]("/Questions Folder/Question_1.py")<br>
 **Q2)** [Write a program to demonstate all arithmetic operations on numbers in Python](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_2.py)<br>
 **Q3)** [Write a program to check whether the entered year is leap year or not](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_3.py)<br>
 **Q4)** [Write a program to check whether the input number is even or odd](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_4.py)<br>
