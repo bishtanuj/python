@@ -1,104 +1,158 @@
-# Write a program to implement calculator using user defined functions
+# Write a program to implement calculator using user defined functions and also Continue with Previous Answer.
 
-# function for addition
-def addition(a, b):
-    add = a + b
-    print("Addition:", add)
-
-
-# function for subtraction
-def subtraction(a, b):
-    subtract = a - b
-    print("Subtraction:", subtract)
-
-
-# function for product
-def product(a, b):
-    multiply = a * b
-    print("Product:", multiply)
-
-
-# function for division
-def division(a, b):
-    divide = a / b
-    print("Division:", divide)
+----------------------------------------------------------------------------:Program:---------------------------------------------------------------------------
+#Functions to Store Answer
+def answer (ans):
+    print("1.   Add")
+    print("2.   Subtract")
+    print("3.   Product")
+    print("4.   Division")
+    print("5.   Exponent")
+    n = int(input("Enter choice you want to do with previous answer: "))
+    q=int(input("Enter Another no.:"))
+    if(n==1): addition(ans,q)
+    elif(n==2): subtract(ans,q)
+    elif(n==3): multiply(ans,q)
+    elif(n==4): division(ans,q)
+    elif(n==5): expo(ans,q)
+    else: print("Please Enter correct option. ")
 
 
-# function for floor division
-def floor_division(a, b):
-    floor_divide = a // b
-    print("Floor Division:", floor_divide)
+#Function for Addition
+def addition(x,y):
+    sum = x + y
+    print("Addition:",sum)
+    a=input("Continue with Answer(Y/N)?")
+    if a=='Y'or a=='y' :
+        answer(sum)
 
 
-# function for remainder
-def remainder(a, b):
-    rem = a % b
-    print("Remainder:", rem)
+#Function for Subtraction 
+def subtract(x,y):
+    sub = x - y
+    print("Subtraction: ",sub)
+    a=input("Continue with Answer(Y/N)?")
+    if a=='Y'or a=='y' :
+        answer(sub)
 
 
-if __name__ == '__main__':
-    # scanning the numbers for operations
-    num_1 = int(input("Enter first number: "))
-    num_2 = int(input("Enter another number: "))
+#Function for Multiplication
+def multiply(x,y):
+    product = x * y
+    print("Product:",product)
+    a=input("Continue with Answer(Y/N)?")
+    if a=='Y'or a=='y' :
+        answer(product)
 
-    # Printing the list of operations
-    print("*** Calculator ***")
-    print("1. Addition")
-    print("2. Subtraction")
-    print("3. Product")
-    print("4. Division")
-    print("5. Floor Division")
-    print("6. Remainder")
 
-    # scanning the choice form the user
-    choice = int(input("Enter Your Choice: "))
-
-    if choice == 1:
-        addition(num_1, num_2)
-
-    elif choice == 2:
-        subtraction(num_1, num_2)
-
-    elif choice == 3:
-        product(num_1, num_2)
-
-    elif choice == 4:
-        division(num_1, num_2)
-
-    elif choice == 5:
-        floor_division(num_1, num_2)
-
-    elif choice == 6:
-        remainder(num_1, num_2)
-
+#Function for Division
+def division(x,y):
+    if(y > x):
+        division = x / y
+        print("Division:",division)
+        a=input("Continue with Answer(Y/N)?")
+        if a=='Y'or a=='y':
+            answer(division)
     else:
-        print("Kindly enter a positive number!!")
+        division = x // y
+        print("Division:",division)
+        a=input("Continue with Answer(Y/N)?")
+        if a=='Y'or a=='y':
+            answer(division)
 
+
+#Function for Exponential    
+def expo(x,y):
+    exponent = x ** y
+    print("Exponent:",exponent)
+    a=input("Continue with Answer(Y/N)?")
+    if a=='Y'or a=='y':
+        answer(exponent)
+
+
+def end():
+    quit()
+
+
+""" Calculator """
+while(1):
+    print("____Calculator____")
+    print(" ")
+    print("1.   Add")
+    print("2.   Subtract")
+    print("3.   Product")
+    print("4.   Division")
+    print("5.   Exponent")
+    print("6.   EXIT")
+    
+    choice = int(input("Enter your choice: "))
+    if(choice == 6):
+        print("!!Thanks for Using!!\n");end()
+    a = int(input("Enter the First no.: "))
+    b  = int(input("Enter the Second no.: "))
+    if (choice == 1):
+        addition(a,b)
+    elif (choice == 2):
+        subtract(a,b)
+    elif (choice == 3):
+        multiply(a,b)
+    elif (choice == 4):
+        division(a,b)
+    elif (choice == 5):
+        expo(a,b)
+    else:
+        print("Please Enter Correct option ")
         
-  
-# OUTPUT:
-# Enter first number: 3
-# Enter another number: 9
-# *** Calculator ***
-# 1. Addition
-# 2. Subtraction
-# 3. Product
-# 4. Division
-# 5. Floor Division
-# 6. Remainder
-# Enter Your Choice: 1
-# Addition: 12
-  
+        
+----------------------------------------------------------------------------:OUTPUT:----------------------------------------------------------------------------
 
-# OUTPUT
-# Enter first number: 9
-# Enter another number: 3
-# *** Calculator ***
-# 1. Addition
-# 2. Subtraction
-# 3. Product
-# 4. Division
-# 5. Floor Division
-# 6. Remainder
-# Enter Your Choice: 2
-# Subtraction: 6
+____Calculator____
+ 
+1.   Add
+2.   Subtract
+3.   Product
+4.   Division
+5.   Exponent
+6.   EXIT
+Enter your choice: 3
+Enter the First no.: 4
+Enter the Second no.: 6
+Product: 24
+Continue with Answer(Y/N)?y
+1.   Add
+2.   Subtract
+3.   Product
+4.   Division
+5.   Exponent
+Enter choice you want to do with previous answer: 1
+Enter Another no.:3
+Addition: 27
+Continue with Answer(Y/N)?y
+1.   Add
+2.   Subtract
+3.   Product
+4.   Division
+5.   Exponent
+Enter choice you want to do with previous answer: 2
+Enter Another no.:3
+Subtraction:  24
+Continue with Answer(Y/N)?y
+1.   Add
+2.   Subtract
+3.   Product
+4.   Division
+5.   Exponent
+Enter choice you want to do with previous answer: 5
+Enter Another no.:2
+Exponent: 576
+Continue with Answer(Y/N)?n
+____Calculator____
+
+1.   Add
+2.   Subtract
+3.   Product
+4.   Division
+5.   Exponent
+6.   EXIT
+Enter your choice: 6
+!!Thanks for Using!!
