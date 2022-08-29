@@ -10,12 +10,18 @@ def answer (ans):
     print("5.   Exponent")
     n = int(input("Enter choice you want to do with previous answer: "))
     q=int(input("Enter Another no.:"))
-    if(n==1): addition(ans,q)
-    elif(n==2): subtract(ans,q)
-    elif(n==3): multiply(ans,q)
-    elif(n==4): division(ans,q)
-    elif(n==5): expo(ans,q)
-    else: print("Please Enter correct option. ")
+    if n==1:
+        addition(ans,q)
+    elif n==2: 
+        subtract(ans,q)
+    elif n==3: 
+        multiply(ans,q)
+    elif n==4: 
+        division(ans,q)
+    elif n==5: 
+        expo(ans,q)
+    else: 
+        print("Please Enter correct option. ")
 
 
 #Function for Addition
