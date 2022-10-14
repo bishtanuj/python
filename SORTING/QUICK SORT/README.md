@@ -8,7 +8,7 @@
 
 ### quicksort()
 ```md
-quicksort(A,P,R)
+quicksort(A, P, R)
 {
   if(P < R)
   {
