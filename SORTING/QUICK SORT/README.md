@@ -5,6 +5,8 @@
 - It consumes relatively lower resources during execution.
 
 ## Algorithm
+
+### quicksort()
 ```md
 quicksort(A,P,R)
 {
@@ -16,3 +18,33 @@ quicksort(A,P,R)
   }
 }
 ```
+
+### partition()
+```md
+partition(A, P, R)
+{
+  pivot = A[R];
+  i = P - 1;
+  for(j = P to R - 1)
+  {
+    if(A[j] <= pivot)
+    {
+      i++;
+      swap(A[i], A[j]);
+    }
+  }
+  swap(A[i+1], A[R];
+  return i+1;
+}
+```
+
+## Space Complexity
+Best Case: O(logn)
+Average Case: O(logn)
+Worst Case: O(n)
+
+## Time Complexity
+Best Case: O(logn)
+Average Case: O(logn)
+Worst Case: O(n)
+
