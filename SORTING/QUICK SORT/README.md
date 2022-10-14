@@ -39,12 +39,12 @@ partition(A, P, R)
 ```
 
 ## Space Complexity
-Best Case: O(logn)
-Average Case: O(logn)
+Best Case: O(logn) <br>
+Average Case: O(logn) <br>
 Worst Case: O(n)
 
 ## Time Complexity
-Best Case: O(logn)
-Average Case: O(logn)
+Best Case: O(logn) <br>
+Average Case: O(logn) <br>
 Worst Case: O(n)
 
