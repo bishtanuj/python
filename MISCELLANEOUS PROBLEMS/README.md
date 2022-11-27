@@ -6,5 +6,5 @@
 3. [Tetranacci Series](https://github.com/bishtanuj/python/blob/main/MISCELLANEOUS%20PROBLEMS/Tetranacci%20Series/tetranacci_series.py)
 
 ### Generalizartion of Factorial of Number
-1. [Factorial]()
+1. [Factorial](https://github.com/bishtanuj/python/blob/main/MISCELLANEOUS%20PROBLEMS/Factorial/factorial.py)
 2. [Double Factorial](https://github.com/bishtanuj/python/blob/main/MISCELLANEOUS%20PROBLEMS/Double%20Factorial/double_factorial.py)
