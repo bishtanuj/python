@@ -1,1 +1,3 @@
 # Fibonacci Series
+
+### Algorithm
