@@ -10,5 +10,6 @@
 - Add screenshots or screen captures to your pull request to help us understand the effects of the change proposed in your PR.
 
 
-Thanks for taking your time :pray:
+Thanks for taking your time :pray: 
+
 Keep Coding, Keep Enjoying, Keep Contributing ...
