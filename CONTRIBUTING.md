@@ -8,3 +8,7 @@
 - [Fork the repository](https://github.com/bishtanuj/python/fork). Then, create a branch for any issue that you are working on . Finally, commit your work.
 - Create a [pull request](https://github.com/bishtanuj/python/compare), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your pull request to help us understand the effects of the change proposed in your PR.
+
+
+Thanks for taking your time :pray:
+Keep Coding, Keep Enjoying, Keep Contributing ...
