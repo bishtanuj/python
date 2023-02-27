@@ -9,3 +9,6 @@
 1. [Factorial](/MISCELLANEOUS%20PROBLEMS/Factorial/factorial.py)
 2. [Double Factorial](/MISCELLANEOUS%20PROBLEMS/Double%20Factorial)
 3. [Exponential Factorial](/MISCELLANEOUS%20PROBLEMS/Exponential%20Factorial)
+
+### Play With Strings
+1. [Calculate Words, Consonants and Vowels]()
