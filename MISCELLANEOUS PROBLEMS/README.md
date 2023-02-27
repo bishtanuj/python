@@ -11,4 +11,4 @@
 3. [Exponential Factorial](/MISCELLANEOUS%20PROBLEMS/Exponential%20Factorial)
 
 ### Play With Strings
-1. [Calculate Words, Consonants and Vowels]()
+1. [Calculate Words, Consonants and Vowels](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/cons_vowel_words.py)
