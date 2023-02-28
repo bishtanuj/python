@@ -12,4 +12,4 @@
 
 ### Play With Strings
 1. [Calculate Words, Consonants and Vowels](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/cons_vowel_words.py)
-2. [Palindrome Number]()
+2. [Palindrome Number](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number.py)
