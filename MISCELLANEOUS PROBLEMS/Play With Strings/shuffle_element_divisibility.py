@@ -12,3 +12,11 @@ if count == 0:
 elif count > 0:
     print("Yes")
 
+
+# OUTPUT - 1
+# Enter a number: 123
+# No
+
+# OUTPUT - 2
+# Enter a number: 301
+# Yes
