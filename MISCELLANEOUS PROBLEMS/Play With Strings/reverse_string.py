@@ -10,7 +10,7 @@ string = input("Enter a string: ")
 # Split the string form "."
 split_string_list = string.split(".")
 
-# Revesre the split_string_list
+# Reverse the split_string_list
 reverse_list = split_string_list[::-1]
 
 # Printing the result
