@@ -1,6 +1,6 @@
 # Python <img align="left" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
-[![Fork](https://img.shields.io/github/forks/bishtanuj/python?label=fork&style=social)](https://github.com/bishtanuj/python/fork)
+<!-- [![Fork](https://img.shields.io/github/forks/bishtanuj/python?label=fork&style=social)](https://github.com/bishtanuj/python/fork) -->
 
 ## A bit about Python
 1. Python was created by ***GUIDO VAN ROSSUM***, Dutch Programmer in 1991.
