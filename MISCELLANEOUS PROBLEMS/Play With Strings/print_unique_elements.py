@@ -15,5 +15,6 @@ for i in range(string_length):
         unique_element_list.append(string[i])
 
 # Print the unique elements of string
+print("Unique Elements: ", end="")
 for i in range(len(unique_element_list)):
     print(unique_element_list[i], end="")
