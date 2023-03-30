@@ -17,3 +17,16 @@ while i < length_of_string:
         print(string[i], end="")
     i += 1
 
+
+```
+OUTPUT:
+Enter the length of string: 26
+Enter the string of length 26: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCD
+EFGH
+IJKL
+MNOP
+QRST
+UVWX
+YZ
+```
