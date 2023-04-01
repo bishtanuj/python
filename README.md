@@ -1,3 +1,5 @@
+[![Licence](https://img.shields.io/github/license/bishtanuj/python?style=for-the-badge)](./LICENSE)
+
 # Python <img align="left" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
 <!-- [![Fork](https://img.shields.io/github/forks/bishtanuj/python?label=fork&style=social)](https://github.com/bishtanuj/python/fork) -->
