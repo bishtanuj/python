@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/python?style=for-the-badge)](./LICENSE)[![Star](https://img.shields.io/github/star/bishtanuj/python?style=for-the-badge)](./STAR)
+[![Licence](https://img.shields.io/github/license/bishtanuj/python?style=for-the-badge)](./LICENSE)[![Star](https://img.shields.io/github/star/bishtanuj/python?style=for-the-badge)](./Star)
 
 # Python <img align="left" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
