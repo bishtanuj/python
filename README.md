@@ -1,4 +1,5 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/python?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/bishtanuj/python?style=for-the-badge)](./LICENSE) &emsp;
+[![Issues](https://img.shields.io/github/issues/bishtanuj/python?style=for-the-badge)](./ISSUES)
 
 # Python <img align="left" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
