@@ -14,6 +14,7 @@
 1. [Calculate Words, Consonants and Vowels](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/cons_vowel_words.py)
 2. Palindrome Number <br>
 &emsp;&emsp; a) [Classical Method](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number_1.py)
+&emsp;&emsp; b) [Method Using List](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number_2.py)
 3. [Shuffle Element of Integer to check divisibility](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/shuffle_element_divisibility.py)
 4. [Reverse String](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/reverse_string.py)
 5. [Count Frequency of Characters](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/count_frequency_characters.py)
