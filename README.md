@@ -2,7 +2,7 @@
 [![Issues](https://img.shields.io/github/issues/bishtanuj/python?style=for-the-badge)](./ISSUES) &emsp;
 [![Forks](https://img.shields.io/github/forks/bishtanuj/python?style=for-the-badge)](./FORKS) &emsp;
 [![Stars](https://img.shields.io/github/stars/bishtanuj/python?style=for-the-badge)](./STARS) &emsp;
-![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge) 
+![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
 # Python <img align="left" alt="Python" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 
