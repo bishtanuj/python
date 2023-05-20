@@ -30,5 +30,6 @@ if __name__ == "__main__":
 
 ```
 OUTPUT:
-
+Enter the string: racecar
+It is a palindrome
 ```
