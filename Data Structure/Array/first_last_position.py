@@ -31,8 +31,6 @@ if __name__ == "__main__":
     
     # print the result
     print(f"Result: {first_last_position(elements, target_element)}")
-
-
     
     
 ```
