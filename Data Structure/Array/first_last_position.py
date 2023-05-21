@@ -37,5 +37,9 @@ if __name__ == "__main__":
     
 ```
 OUTPUT:
-
+Enter the number of elements of array: 9
+Enter the 9 elements: 7 5 2 8 8 8 6 2 8
+Array: [7, 5, 2, 8, 8, 8, 6, 2, 8]
+Enter the target element: 8
+Result: [3, 8]
 ```
