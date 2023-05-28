@@ -20,3 +20,4 @@
 5. [Count Frequency of Characters](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/count_frequency_characters.py)
 6. [Print Unique Elements of String](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/print_unique_elements.py)
 7. [Strip the String at Continuous Interval](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/interval_strip_string.py)
+8. [Number of senior citizen - Leetcode Problem]()
