@@ -23,4 +23,14 @@ if __name__ == "__main__":
         print(f"Index of first occurrence: {result}")
     else:
         print(f"{string2} is not a part of {string1}")
+        
+        
+  
+```
+OUTPUT:
+Enter first string: happyandhappy
+Enter second string: happy
+Index of first occurrence: 0
+```
+
 
