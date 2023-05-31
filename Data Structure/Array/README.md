@@ -2,4 +2,4 @@
 
 #### Problems  
 
-1. [Find the length of an Array](/Array/length_of_array.py/)
+1. [Find the length of an Array](/length_of_array.py/)
