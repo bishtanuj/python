@@ -81,3 +81,6 @@ Note: Local scope objects can be synced with global scope objects using keywords
   Module is an addditional built-in type supported by the Pyhton Intepreter. It supports one special operation, i.e., **attribute access:** `mymod.myobj`, where `mymod` is a module and `myobj` refrences a name defined in m's symbol table. The module's symbol table resides in a very special attribute of the module `_dict_`, but direct assignment to this module is neither possible nor recommended.
 > 7. Callable Types: <br>
   Callable types are the types to which function call can be applied. They can be user-defined functions, instance methods, generator functions, and some other built-in functions, methods and classes.
+
+##Q6. What is pass in python?
+>The `pass` keyword represents a null operation in Python. It is generally used for the purpose of filling up empty blocks of code which may execute during runtime but has yet to be written.
