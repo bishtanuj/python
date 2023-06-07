@@ -12,6 +12,7 @@ for table in tables:
     print(f"{num} * {i} = {table()}")
 
     
+```  
 OUTPUT
 Enter a number: 6
 Table of 6:
@@ -25,3 +26,4 @@ Table of 6:
 6 * 8 = 48
 6 * 9 = 54
 6 * 10 = 60
+```
