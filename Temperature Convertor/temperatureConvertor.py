@@ -1,6 +1,6 @@
 # Program to make temperature convertor
 
-# Function to convert celsius to fahrenheit
+# Function to convert Celsius to Fahrenheit
 def celsius_fahrenheit():
     celsius = float(input("Enter the temperature in celsius: "))
 
@@ -8,7 +8,7 @@ def celsius_fahrenheit():
     print("Temperature in Fahrenheit:", fahrenheit)
 
 
-# Function to convert fahrenheit to celsius
+# Function to convert Fahrenheit to Celsius
 def fahrenheit_celsius():
     fahrenheit = float(input("Enter the temperature in Fahrenheit: "))
 
@@ -24,7 +24,7 @@ def kelvin_celsius():
     print("Temperature in celsius:", celsius)
 
 
-# Function to convert celsius to kelvin
+# Function to convert Celsius to kelvin
 def celsius_kelvin():
     celsius = float(input("Enter the temperature in celsius: "))
 
@@ -32,7 +32,7 @@ def celsius_kelvin():
     print("Temperature in Kelvin:", kelvin)
 
 
-# Function to convert kelvin to fahrenheit
+# Function to convert kelvin to Fahrenheit
 def kelvin_fahrenheit():
     kelvin = float(input("Enter the temperature in kelvin: "))
 
@@ -40,7 +40,7 @@ def kelvin_fahrenheit():
     print("Temperature in fahrenheit:", fahrenheit)
 
 
-# Function to convert fahrenheit to kelvin
+# Function to convert Fahrenheit to kelvin
 def fahrenheit_kelvin():
     fahrenheit = float(input("Enter the temperature in fahrenheit: "))
 
@@ -48,39 +48,34 @@ def fahrenheit_kelvin():
     print("Temperature in Kelvin:", kelvin)
 
 
-choice = 1
-while choice != 7:
-    print("\n*** Temperature Convertor ***")
-    print("1.   celsius to Fahrenheit")
-    print("2.   Fahrenheit to celsius")
-    print("3.   Kelvin to celsius")
-    print("4.   celsius to Kelvin")
-    print("5.   Kelvin to Fahrenheit")
-    print("6.   Fahrenheit to Kelvin")
-    print("7.   EXIT")
+if __name__ == "__main__":
+    choice = 1
+    while choice != 7:
+        print("\n*** Temperature Convertor ***")
+        print("1.   celsius to Fahrenheit")
+        print("2.   Fahrenheit to celsius")
+        print("3.   Kelvin to celsius")
+        print("4.   celsius to Kelvin")
+        print("5.   Kelvin to Fahrenheit")
+        print("6.   Fahrenheit to Kelvin")
+        print("7.   EXIT")
 
-    choice = int(input("Enter Your Choice: "))
+        choice = int(input("Enter Your Choice: "))
 
-    if choice == 1:
-        celsius_fahrenheit()
-
-    elif choice == 2:
-        fahrenheit_celsius()
-
-    elif choice == 3:
-        kelvin_celsius()
-
-    elif choice == 4:
-        celsius_kelvin()
-
-    elif choice == 5:
-        kelvin_fahrenheit()
-
-    elif choice == 6:
-        fahrenheit_kelvin()
-
-    elif choice == 7:
-        print("Thanks For Using")
-
-    else:
-        print("!! Enter Right Choice !!")
+        match choice:
+            case 1:
+                celsius_fahrenheit()
+            case 2:
+                fahrenheit_celsius()
+            case 3:
+                kelvin_celsius()
+            case 4:
+                celsius_kelvin()
+            case 5:
+                kelvin_fahrenheit()
+            case 6:
+                fahrenheit_kelvin()
+            case 7:
+                print("Thanks For Using")
+            case _:
+                print("!! Enter Right Choice")
