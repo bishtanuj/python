@@ -10,7 +10,7 @@ for i in range(1,11):
     print(f"{number} * {i} = {product}")
 
     
-
+'''
 Enter the number: 5
 Table of 5: 
 5 * 1 = 5
@@ -23,3 +23,4 @@ Table of 5:
 5 * 8 = 40
 5 * 9 = 45
 5 * 10 = 50
+'''
