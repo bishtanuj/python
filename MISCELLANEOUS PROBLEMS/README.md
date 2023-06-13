@@ -18,7 +18,7 @@
 3. [Shuffle Element of Integer to check divisibility](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/shuffle_element_divisibility.py)
 4. Reverse String <br>
 &emsp;&emsp; a) [Reverse String without using inbuilt functions](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/reverse_string_1.py)
-&emsp;&emsp; a) [Reverse String with some conditions](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/reverse_string_2.py)
+&emsp;&emsp; b) [Reverse String with some conditions](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/reverse_string_2.py)
 5. [Count Frequency of Characters](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/count_frequency_characters.py)
 6. [Print Unique Elements of String](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/print_unique_elements.py)
 7. [Strip the String at Continuous Interval](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/interval_strip_string.py)
