@@ -2,7 +2,7 @@
 
 '''
 Test Case:
-Input: Hello
+INPUT: Hello
 OUTPUT: olleH
 '''
 
