@@ -1,4 +1,4 @@
-# Program to print the reverse of string without using inbuilt function
+# Program to print the reverse of string without using inbuilt functions
 
 '''
 Test Case:
