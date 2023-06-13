@@ -1,5 +1,11 @@
 # Program to print the reverse of string
 
+'''
+Test Case:
+Input: Hello
+OUTPUT: olleH
+'''
+
 # function to reverse the string
 def reverse_string(nums: list[str]) -> str:
 
