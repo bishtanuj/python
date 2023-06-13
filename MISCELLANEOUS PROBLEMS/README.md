@@ -16,7 +16,7 @@
 &emsp;&emsp; a) [Classical Method](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number_1.py)
 &emsp;&emsp; b) [Method Using List](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number_2.py)
 3. [Shuffle Element of Integer to check divisibility](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/shuffle_element_divisibility.py)
-4. [Reverse String] <br>
+4. Reverse String <br>
 &emsp;&emsp; a) [Reverse String without using inbuilt functions](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/reverse_string_1.py)
 
 5. [Count Frequency of Characters](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/count_frequency_characters.py)
