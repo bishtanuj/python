@@ -1,8 +1,10 @@
 # Write a program to reverse a string
 
-# Test case
-# Input: My.name.is.Anuj
-# Output: Anuj.is.name.My
+'''
+Test case
+Input: My.name.is.Anuj
+Output: Anuj.is.name.My
+'''
 
 # Scan a string
 string = input("Enter a string: ")
