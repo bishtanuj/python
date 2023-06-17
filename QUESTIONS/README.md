@@ -1,4 +1,4 @@
 # Questions
 
 ## BASIC
-1. [Print string in given format](/QUESTIONS/Basic/Question_1.py)
+1. [Print string in given format](/QUESTIONS/Basic/question_1.py)
