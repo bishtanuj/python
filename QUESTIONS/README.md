@@ -6,4 +6,4 @@
 3. [Print current date and time](/QUESTIONS/Basic/question_3.py)
 4. [Print area of circle](/QUESTIONS/Basic/question_4.py)
 5. [Print first name and last name in reverse order](/QUESTIONS/Basic/question_5.py)
-6. [Program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers.]()
+6. [Program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers.](/QUESTIONS/Basic/question_6.py)
