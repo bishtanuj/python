@@ -7,4 +7,4 @@
 4. [Print area of circle](/QUESTIONS/Basic/question_4.py)
 5. [Print first name and last name in reverse order](/QUESTIONS/Basic/question_5.py)
 6. [Program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers.](/QUESTIONS/Basic/question_6.py)
-7. [Program to accept a filename from the user and print the extension of that file.]()
+7. [Program to accept a filename from the user and print the extension of that file.](/QUESTIONS/Basic/question_7.py)
