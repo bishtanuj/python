@@ -10,4 +10,4 @@
 7. [Program to accept a filename from the user and print the extension of that file.](/QUESTIONS/Basic/question_7.py)
 
 ## String Questions
-1. [Count Frequency of Characters]()
+1. [Count frequency of characters in a string]()
