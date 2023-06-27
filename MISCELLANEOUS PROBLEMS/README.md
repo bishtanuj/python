@@ -23,3 +23,7 @@
 6. [Print Unique Elements of String](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/print_unique_elements.py)
 7. [Strip the String at Continuous Interval](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/interval_strip_string.py)
 8. [Number of Senior Citizen - Leetcode Problem]()
+
+
+### Number System
+1. [Program to check whether the number is prime or not]()
