@@ -26,4 +26,4 @@
 
 
 ### Number System
-1. [Program to check whether the number is prime or not]()
+1. [Program to check whether the number is prime or not](/MISCELLANEOUS%20PROBLEMS/Number%20System/check_prime.py)
