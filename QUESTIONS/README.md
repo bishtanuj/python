@@ -13,6 +13,6 @@
 1. Count frequency of characters in a string
 
 &emsp;&emsp;:point_right:[Method 1](/QUESTIONS/Strings%20Questions/count_frequency_charachters.py)
-&emsp;&emsp;:point_right:[Method 2](/QUESTIONS/Strings%20Questions/count_frequency_char_2.py)
+&emsp;&emsp;:point_right:[Method 2](/QUESTIONS/Strings%20Questions/count_frequency_char_2.py) -> using Counter
 
 2. [Print length of the string](/QUESTIONS/Strings%20Questions/length_of_string.py)
