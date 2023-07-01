@@ -1,4 +1,4 @@
-import collections import Counter
+from collections import Counter
 
 def contains_duplicate(nums: list[int]) -> bool:
   dict = Counter(nums)
