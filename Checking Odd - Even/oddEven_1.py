@@ -18,3 +18,9 @@ if __name__ == "__main__":
     print(f"{number} is an even number")
   else:
     print(f"{number} is an odd number")
+
+
+
+'''
+OUTPUT:
+'''
