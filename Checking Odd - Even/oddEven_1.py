@@ -12,6 +12,8 @@ if __name__ == "__main__":
 
   # call function to check the number and saves the output in "result" variable
   result = check_odd_even(number)
+
+  # Print the conclusion
   if result:
     print(f"{number} is an even number")
   else:
