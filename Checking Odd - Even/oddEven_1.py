@@ -23,4 +23,6 @@ if __name__ == "__main__":
 
 '''
 OUTPUT:
+Enter the number: 269
+269 is an odd number
 '''
