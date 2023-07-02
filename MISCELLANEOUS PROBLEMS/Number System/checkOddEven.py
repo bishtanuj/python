@@ -7,5 +7,5 @@ def checkOddEven(num: int) -> bool:
 if __name__ == "__main__":
   num = int(input("Enter the number: "))
   result = checkOddEven(num)
-  print(f"{num} is even") if result else print(f"{num} is odd")
+  print(f"{num} is even number") if result else print(f"{num} is odd number")
 
