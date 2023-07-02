@@ -27,7 +27,7 @@
 
 ### Number System
 1. [Program to check whether the number is prime or not](/MISCELLANEOUS%20PROBLEMS/Number%20System/check_prime.py)
-2. [Program to check whether the number is odd or even]()
+2. [Program to check whether the number is odd or even](/MISCELLANEOUS%20PROBLEMS/Number%20System/checkOddEven.py)
 
 
 
