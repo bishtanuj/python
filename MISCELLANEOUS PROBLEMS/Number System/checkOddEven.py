@@ -23,4 +23,8 @@ if __name__ == "__main__":
 OUTPUT:
 Enter the number: 24
 24 is even number
+
+OUTPUT 2:
+Enter the number: 19
+19 is odd number
 '''
