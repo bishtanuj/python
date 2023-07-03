@@ -7,7 +7,13 @@ def checkOddEven(num: int) -> bool:
 
 # driver function
 if __name__ == "__main__":
+  
+  # scan a number from user
   num = int(input("Enter the number: "))
+  
+  # call the function to check and saves the output to the variable named "result"
   result = checkOddEven(num)
+  
+  # print conclusion
   print(f"{num} is even number") if result else print(f"{num} is odd number")
 
