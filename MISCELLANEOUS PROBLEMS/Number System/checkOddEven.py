@@ -18,9 +18,8 @@ if __name__ == "__main__":
   print(f"{num} is even number") if result else print(f"{num} is odd number")
 
 
-
 '''
-OUTPUT:
+OUTPUT 1:
 Enter the number: 24
 24 is even number
 
