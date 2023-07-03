@@ -17,3 +17,9 @@ if __name__ == "__main__":
   # print conclusion
   print(f"{num} is even number") if result else print(f"{num} is odd number")
 
+
+
+'''
+OUTPUT:
+
+'''
