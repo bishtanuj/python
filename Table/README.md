@@ -1,1 +1,1 @@
-Ways of printing table in python
+# Ways of printing table in python
