@@ -17,7 +17,6 @@ if __name__ == "__main__":
 
 '''
 OUTPUT:
-[?2004l
 Enter the number: 5
 5 * 1 = 5
 5 * 2 = 10
