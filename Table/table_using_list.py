@@ -9,6 +9,7 @@ def printTable(num: int):
     k += 1
 
 
+# driver function
 if __name__ == "__main__":
   num = int(input("Enter the number: "))
   printTable(num)
