@@ -182,24 +182,19 @@ match choice:
         print("5. Triangle")
     
         choice_2 = int(input("Enter your choice: "))
-    
-        if choice_2 == 1:
-            areaOfCircle()
-    
-        elif choice_2 == 2:
-            areaOfRectangle()
-    
-        elif choice_2 == 3:
-            areaOfRhombus()
-    
-        elif choice_2 == 4:
-            areaOfSquare()
-    
-        elif choice_2 == 5:
-            areaOfTriangle()
-    
-        else:
-            print("!! Enter Right Choice !!")
+        match choice_2:
+            case 1:
+                areaOfCircle()
+            case 2:
+                areaOfRectangle()
+            case 3:
+                areaOfRhombus() 
+            case 4:
+                areaOfSquare()
+            case 5:
+                areaOfTriangle()
+            case _:
+                print("!! Enter Right Choice !!")
 
     # To compute Volume
     case 3:
