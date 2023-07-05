@@ -207,27 +207,20 @@ match choice:
         print("6. Hemisphere")
     
         choice_3 = int(input("Enter your choice: "))
-    
-        if choice_3 == 1:
-            volumeOfCylinder()
-    
-        elif choice_3 == 2:
-            volumeOfCuboid()
-    
-        elif choice_3 == 3:
-            volumeOfCube()
-    
-        elif choice_3 == 4:
-            volumeOfCone()
-    
-        elif choice_3 == 5:
-            volumeOfSphere()
-    
-        elif choice_3 == 6:
-            volumeOfHemisphere()
-    
-        else:
+        match choice_3:        
+            case 1:
+                volumeOfCylinder()
+            case 2:
+                volumeOfCuboid()
+            case 3:
+                volumeOfCube()
+            case 4:
+                volumeOfCone()
+            case 5:
+                volumeOfSphere()
+            case 6:
+                volumeOfHemisphere()
+            case _:
+                print("!! Enter Right Choice !!")
+        case _:
             print("!! Enter Right Choice !!")
-    
-    else:
-        print("!! Enter Right Choice !!")
