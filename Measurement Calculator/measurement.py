@@ -147,92 +147,92 @@ print("2. Compute Area")
 print("3. Compute Volume")
 
 choice = int(input("Enter your choice: "))
-
-# To compute Perimeter
-if choice == 1:
-    print("*** Select Shape ***")
-    print("1. Circle")
-    print("2. Rectangle")
-    print("3. Rhombus")
-    print("4. Square")
-    print("5. Triangle")
-
-    choice_1 = int(input("Enter your choice: "))
-    match choice:
-        case 1:
-            perimeterOfCircle()
-        case 2:
-            perimeterOfRectangle()
-        case 3:
-            perimeterOfRhombus()
-        case 4:
-            perimeterOfSquare()
-        case 5:
-            perimeterOfTriangle()
-        case _:
+match choice:
+    # To compute Perimeter
+    case 1:
+        print("*** Select Shape ***")
+        print("1. Circle")
+        print("2. Rectangle")
+        print("3. Rhombus")
+        print("4. Square")
+        print("5. Triangle")
+    
+        choice_1 = int(input("Enter your choice: "))
+        match choice_1:
+            case 1:
+                perimeterOfCircle()
+            case 2:
+                perimeterOfRectangle()
+            case 3:
+                perimeterOfRhombus()
+            case 4:
+                perimeterOfSquare()
+            case 5:
+                perimeterOfTriangle()
+            case _:
+                print("!! Enter Right Choice !!")
+    
+    # To compute Area
+    case 2:
+        print("*** Select Shape ***")
+        print("1. Circle")
+        print("2. Rectangle")
+        print("3. Rhombus")
+        print("4. Square")
+        print("5. Triangle")
+    
+        choice_2 = int(input("Enter your choice: "))
+    
+        if choice_2 == 1:
+            areaOfCircle()
+    
+        elif choice_2 == 2:
+            areaOfRectangle()
+    
+        elif choice_2 == 3:
+            areaOfRhombus()
+    
+        elif choice_2 == 4:
+            areaOfSquare()
+    
+        elif choice_2 == 5:
+            areaOfTriangle()
+    
+        else:
             print("!! Enter Right Choice !!")
 
-# To compute Area
-elif choice == 2:
-    print("*** Select Shape ***")
-    print("1. Circle")
-    print("2. Rectangle")
-    print("3. Rhombus")
-    print("4. Square")
-    print("5. Triangle")
-
-    choice_2 = int(input("Enter your choice: "))
-
-    if choice_2 == 1:
-        areaOfCircle()
-
-    elif choice_2 == 2:
-        areaOfRectangle()
-
-    elif choice_2 == 3:
-        areaOfRhombus()
-
-    elif choice_2 == 4:
-        areaOfSquare()
-
-    elif choice_2 == 5:
-        areaOfTriangle()
-
+    # To compute Volume
+    case 3:
+        print("*** Select Shape ***")
+        print("1. Cylinder")
+        print("2. Cuboid")
+        print("3. Cube")
+        print("4. Cone")
+        print("5. Sphere")
+        print("6. Hemisphere")
+    
+        choice_3 = int(input("Enter your choice: "))
+    
+        if choice_3 == 1:
+            volumeOfCylinder()
+    
+        elif choice_3 == 2:
+            volumeOfCuboid()
+    
+        elif choice_3 == 3:
+            volumeOfCube()
+    
+        elif choice_3 == 4:
+            volumeOfCone()
+    
+        elif choice_3 == 5:
+            volumeOfSphere()
+    
+        elif choice_3 == 6:
+            volumeOfHemisphere()
+    
+        else:
+            print("!! Enter Right Choice !!")
+    
     else:
         print("!! Enter Right Choice !!")
-
-# To compute Volume
-elif choice == 3:
-    print("*** Select Shape ***")
-    print("1. Cylinder")
-    print("2. Cuboid")
-    print("3. Cube")
-    print("4. Cone")
-    print("5. Sphere")
-    print("6. Hemisphere")
-
-    choice_3 = int(input("Enter your choice: "))
-
-    if choice_3 == 1:
-        volumeOfCylinder()
-
-    elif choice_3 == 2:
-        volumeOfCuboid()
-
-    elif choice_3 == 3:
-        volumeOfCube()
-
-    elif choice_3 == 4:
-        volumeOfCone()
-
-    elif choice_3 == 5:
-        volumeOfSphere()
-
-    elif choice_3 == 6:
-        volumeOfHemisphere()
-
-    else:
-        print("!! Enter Right Choice !!")
-
-else:
-    print("!! Enter Right Choice !!")
