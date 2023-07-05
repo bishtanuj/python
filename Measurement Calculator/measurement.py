@@ -158,24 +158,19 @@ if choice == 1:
     print("5. Triangle")
 
     choice_1 = int(input("Enter your choice: "))
-
-    if choice_1 == 1:
-        perimeterOfCircle()
-
-    elif choice_1 == 2:
-        perimeterOfRectangle()
-
-    elif choice_1 == 3:
-        perimeterOfRhombus()
-
-    elif choice_1 == 4:
-        perimeterOfSquare()
-
-    elif choice_1 == 5:
-        perimeterOfTriangle()
-
-    else:
-        print("!! Enter Right Choice !!")
+    match choice:
+        case 1:
+            perimeterOfCircle()
+        case 2:
+            perimeterOfRectangle()
+        case 3:
+            perimeterOfRhombus()
+        case 4:
+            perimeterOfSquare()
+        case 5:
+            perimeterOfTriangle()
+        case _:
+            print("!! Enter Right Choice !!")
 
 # To compute Area
 elif choice == 2:
