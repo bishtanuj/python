@@ -10,5 +10,5 @@ def singleOccurrence(num: list[int]) -> list[int]:
 
 
 if __name__ == "__main__":
-  numbers = list(map(int, input("Enter the list of a numbers: ")))
+  numbers = list(map(int, input("Enter the list of a numbers: ").split())
   print(f"Elements that occured once in a list: {singleOccurrence(numbers)}")
