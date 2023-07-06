@@ -14,7 +14,10 @@ def singleOccurrence(num: list[int]) -> list[int]:
 
 # driver function
 if __name__ == "__main__":
+  # scan the list from the user
   numbers = list(map(int, input("Enter the list of a numbers: ").split())
+
+  # print the conclusion
   print(f"Elements that occured once in a list: {singleOccurrence(numbers)}")
 
 
