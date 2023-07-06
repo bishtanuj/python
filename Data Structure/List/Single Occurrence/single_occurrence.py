@@ -17,5 +17,7 @@ if __name__ == "__main__":
                  
 '''
 OUTPUT:
+Enter the list of a numbers: 1 2 3 1 2 3 0 1 2 4 5 6 8 9 0 1 3
+Elements that occured once in a list: [4, 5, 6, 8, 9]
 '''
                  
