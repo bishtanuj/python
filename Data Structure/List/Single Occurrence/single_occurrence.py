@@ -7,3 +7,8 @@ def singleOccurrence(num: list[int]) -> list[int]:
 
   K = [i for i in occurrence if occurrence[i] == 1]
   return K
+
+
+if __name__ == "__main__":
+  numbers = list(map(int, input("Enter the list of a numbers: ")))
+  print(f"Elements that occured once in a list: {singleOccurrence(numbers)}")
