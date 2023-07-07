@@ -25,4 +25,6 @@ if __name__ == "__main__":
 
 '''
 OUTPUT:
+Enter the numbers: 2 3 5 6 9 8 5 2 1 0 3 6 5 4
+Numbers that occurs more than once in a list: [2, 3, 5, 6]
 '''
