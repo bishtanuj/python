@@ -16,6 +16,9 @@ def checkDuplicate(nums: list[int]) -> list[int]:
 
 # driver function 
 if __name__ == "__main__":
+  # scan the list of numbers from the user
   numbers = list(map(int, input("Enter the numbers: ").split()))
+
+  # print the conclusion
   print(f"Numbers that occurs more than once in a list: {checkDuplicate(numbers)}")
   
