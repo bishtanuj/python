@@ -22,3 +22,7 @@ if __name__ == "__main__":
   # print the conclusion
   print(f"Numbers that occurs more than once in a list: {checkDuplicate(numbers)}")
   
+
+'''
+OUTPUT:
+'''
