@@ -16,4 +16,4 @@
 &emsp;&emsp;:point_right:[Method 2](/QUESTIONS/Strings%20Questions/count_frequency_char_2.py) -> using Counter
 
 2. [Print length of the string](/QUESTIONS/Strings%20Questions/length_of_string.py)
-3. [Print Excel Sheet Column Number]()
+3. [Print excel sheet column number]()
