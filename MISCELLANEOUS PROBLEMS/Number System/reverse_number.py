@@ -16,4 +16,6 @@ if __name__ == "__main__":
 
 '''
 OUTPUT:
+Enter a number: 123456
+Reverse of 123456: 654321
 '''
