@@ -8,3 +8,8 @@ def reverseNumber(num: int) -> int:
     num = num // 10
   return reverse
   
+
+if __name__ == "__main__":
+  number = int(input("Enter a number: "))
+  print(f"Reverse of {number}: {reverseNumber(number)}")
+
