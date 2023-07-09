@@ -13,3 +13,7 @@ if __name__ == "__main__":
   number = int(input("Enter a number: "))
   print(f"Reverse of {number}: {reverseNumber(number)}")
 
+
+'''
+OUTPUT:
+'''
