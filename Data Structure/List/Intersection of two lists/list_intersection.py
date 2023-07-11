@@ -13,3 +13,7 @@ if __name__ == "__main__":
   nums2 = list(map(int, input("Enter the elements of Array 2: ").split()))
   print(f"Intersection: {intersect(nums1, nums2)}")
 
+
+'''
+OUTPUT:
+'''
