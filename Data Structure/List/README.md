@@ -1,3 +1,3 @@
 # List - Introduction
 
-### Programs of List (Data Structure in Python)
+## Programs of List (Data Structure in Python)
