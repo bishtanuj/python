@@ -29,7 +29,7 @@
 1. [Program to check whether the number is prime or not](/MISCELLANEOUS%20PROBLEMS/Number%20System/check_prime.py)
 2. [Program to check whether the number is odd or even](/MISCELLANEOUS%20PROBLEMS/Number%20System/checkOddEven.py)
 3. Reverse a number <br>
-&emsp;&emsp; a) [Classical Method]()
+&emsp;&emsp; a) [Classical Method](/MISCELLANEOUS%20PROBLEMS/Number%20System/reverse_number_1.py)
 &emsp;&emsp; b) [Method Using List]()
 
 
