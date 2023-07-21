@@ -6,7 +6,7 @@
 **Q5)** [Write a program to determine the smallest of two entered number](/Basic%20Questions/Questions%20Folder/Question_5.py)<br>
 **Q6)** [Write a program to find the factorial of an entered number](/Basic%20Questions/Questions%20Folder/Question_6.py)<br>
 **Q7)** [Write a program to print fibonacci series by taking range from user](/Basic%20Questions/Questions%20Folder/Question_7.py)<br>
-**Q8)** [Write a program to check whether the input alphabet is vowel or consonant](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_8.py)<br>
+**Q8)** [Write a program to check whether the input alphabet is vowel or consonant](/Basic%20Questions/Questions%20Folder/Question_8.py)<br>
 **Q9** [Write a program to interchange first and last element of list](/Basic%20Questions/Questions%20Folder/Question_9.py)<br>
 **Q10** [Write a program to swap two elements in a list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_10.py)<br>
 **Q11)** [Write a program to find the length of the string](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_11.py)<br>
