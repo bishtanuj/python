@@ -11,7 +11,7 @@
 **Q10** [Write a program to swap two elements in a list](/Basic%20Questions/Questions%20Folder/Question_10.py)<br>
 **Q11)** [Write a program to find the length of the string](/Basic%20Questions/Questions%20Folder/Question_11.py)<br>
 **Q12)** [Write a program to check whether the element is existing in the list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_12.py)<br>
-**Q13)** [Write a program to reverse the elements of the list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_13.py)<br>
+**Q13)** [Write a program to reverse the elements of the list](/Basic%20Questions/Questions%20Folder/Question_13.py)<br>
 **Q14)** [Write a program to multiply all the elements of list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_14.py)<br>
 **Q15)** [Write a program to find the smallest and largest element in the list](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_15.py)<br>
 **Q16)** [Write a program to print first 5 even numbers using break statement](https://github.com/bishtanuj/python/blob/main/Basic%20Questions/Questions%20Folder/Question_16.py)<br>
