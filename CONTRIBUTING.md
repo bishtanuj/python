@@ -10,6 +10,6 @@ ___
 - __*Add screenshots or screen captures to your pull request to help us understand the effects of the change proposed in your pull request.*__
 ___
 
-**Thanks for taking your time:pray:** 
+**Thanks for taking out your precious time:pray:** 
 
 __*Keep Coding, Keep Enjoying, Keep Contributing ...*__
