@@ -35,3 +35,5 @@ Many <b> developing tools </b> are implemented in Python. More and more <b> ever
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
+
+---
