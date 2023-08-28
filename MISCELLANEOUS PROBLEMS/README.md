@@ -32,4 +32,4 @@
 &emsp;&emsp; a) [Classical Method](/MISCELLANEOUS%20PROBLEMS/Number%20System/reverse_number_1.py)
 &emsp;&emsp; b) [Method Using List]()
 
-
+---
