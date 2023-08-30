@@ -5,4 +5,4 @@
 
 ## Programs of List (Data Structure in Python)
 1. [Addition of Elements](/Data%20Structure/List/Addition%20of%20Elements/addingElementsOfList.py)
-2. [Check whether the list contains duplicate]()
+2. [Check whether the list contains duplicate element]()
