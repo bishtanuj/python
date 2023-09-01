@@ -22,4 +22,4 @@
 **Q21)** [Write a program to perform binary search](/Basic%20Questions/Questions%20Folder/Question_21.py)<br>
 **Q22)** [Write a program to solve tower of hanoi](/Basic%20Questions/Questions%20Folder/Question_22.py)<br>
 
-___
+---
