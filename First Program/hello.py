@@ -1,5 +1,6 @@
 print("Hello World")
 
-
-# OUTPUT:
+'''
+OUTPUT:
 Hello World
+'''
