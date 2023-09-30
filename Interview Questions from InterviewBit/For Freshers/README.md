@@ -1,4 +1,4 @@
-# Python Interview Questions for Freshers
+# _Python Interview Questions for Freshers_
 ## Q1. What is Python? What are the benefits of using Python?
 > _Python is a high level, interpreted and general purpose language. Being a general purpose language, it can be used to almost any type of applications with the right tools and libraries. Additionaly, Python supports objects, modules, threads, exception handling and automatic memory management which help in modelling real-world problems and building applications to solve these problems._
 <b><br>
