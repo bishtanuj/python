@@ -24,3 +24,22 @@ Assigning a string to a variable is done with the variable name followed by an e
 string = "Hello"
 print(string)
 ```
+
+### Multiline strings
+You can assign a multiline string to a variable by using three quotes:
+```md
+string = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(string)
+```
+
+or three single quotes:
+```md
+string = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(string)
+```
