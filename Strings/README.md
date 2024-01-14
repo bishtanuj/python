@@ -9,3 +9,9 @@ You can display the string with the `print()` function:
 print('Hello')
 print("Hello")
 ```
+
+You can use `input()` function to scan the string from user through console:
+```md
+string = input("Enter the string: ")
+print(string)
+```
