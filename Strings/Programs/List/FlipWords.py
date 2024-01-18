@@ -11,3 +11,10 @@ def flip_words(string: str) -> str:
 if __name__ == '__main__':
     sentence = input("Enter the string: ")
     print(f"Result: {flip_words(sentence)}")
+
+
+"""
+OUTPUT:
+Enter the string: tahW era uoy ?gniod
+Result: What are you doing? 
+"""
