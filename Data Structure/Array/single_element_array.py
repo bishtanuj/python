@@ -23,3 +23,9 @@ if __name__ == '__main__':
             print(element, end=" ")
     else:
         print(None)
+
+'''
+OUTPUT:
+Enter the numbers: 1 1 2 5 9 8 7 3 25 45 65 45 26 65 3 5 9 8 5 3 9
+Lonely Elements: 2 7 25 26 
+'''
