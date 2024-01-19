@@ -1,18 +1,25 @@
-class Solution:
-    def findSingle(self, N, array):
-        dictionary = {}
-        for i in array:
-            keys = dictionary.keys()
-            if i in keys:
-                dictionary[i] += 1
-            else:
-                dictionary[i] = 1
-        keys = [key for key, value in dictionary.items() if value == 1]
-        for i in range(len(keys)):
-            return keys
-    
-if __name__ =='__main__':
-    N = int(input("Enter the total number of array: "))
-    array = input("Enter the elements: ").split()[:N]
-    obj = Solution()
-    print(f"Single element(s) in array: {obj.findSingle(N, array)}")
+# HackerRank Problem
+# Program to find the elements that occurs only once in an array
+
+def lonely_integer(integer_list: list[int]) -> list[int]:
+    frequency = {}
+    for i in integer_list:
+        key = frequency.keys()
+        if i in key:
+            frequency[i] += 1
+        else:
+            frequency[i] = 1
+
+    lonely_numbers = [j for j in frequency if frequency[j] == 1]
+    return lonely_numbers
+
+
+if __name__ == '__main__':
+    integers = list(map(int, input("Enter the numbers: ").split(" ")))
+    print("Lonely Elements:", end=" ")
+    answer = lonely_integer(integers)
+    if answer:
+        for element in answer:
+            print(element, end=" ")
+    else:
+        print(None)
