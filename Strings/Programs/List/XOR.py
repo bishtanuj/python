@@ -14,3 +14,10 @@ if __name__ == '__main__':
     string1 = input("Enter first string: ")
     string2 = input("Enter second string: ")
     print(f"XOR of {string1} & {string2}: {compute_xor(string1, string2)}")
+
+'''
+OUTPUT:
+Enter first string: 11011
+Enter second string: 00110
+XOR of 11011 & 00110: 11101
+'''
