@@ -4,12 +4,17 @@
 def single_occurrence(num: list[int]) -> list[int]:
   # create the dictionary 'occurrence' having elements of a num as keys and their occurrences as their values respectively
   occurrence = {}
-  for i in num:
+  for element in num:
     key = occurrence.keys()
-    if i in key:
-      occurrence[i] += 1
+    if element in key:
+      occurrence[element] += 1
     else:
-      occurrence[i] = 1
-  return occurrence
+      occurrence[element] = 1
+      
+  result = [key for key in occurrence if occurrence[key] == 1]
+  return result
 
 
+if __name__ == '__main__':
+  array = list(map(int, input().split()))
+  print(f"{single_occurrence(array)}")
