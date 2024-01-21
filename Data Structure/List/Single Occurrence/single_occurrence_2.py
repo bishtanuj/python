@@ -22,3 +22,10 @@ if __name__ == '__main__':
 
   # Print the conclusion
   print(f"List of elements that occurred only once in the array: {single_occurrence(array)}")
+
+
+'''
+OUTPUT:
+Enter the elements of the array: 15 16 14 15 12 18 1 2 1 8 19 1 9 1 7
+List of elements that occurred only once in the array: [16, 14, 12, 18, 2, 8, 19, 9, 7]
+'''
