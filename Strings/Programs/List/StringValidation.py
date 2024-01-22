@@ -27,3 +27,14 @@ if __name__ == '__main__':
     print(f"String contains digits: {any(letter.isdigit() for letter in string)}")
     print(f"String contains lower alphabetical characters: {any(letter.islower() for letter in string)}")
     print(f"String contains upper alphabetical characters: {any(letter.isupper() for letter in string)}")
+
+
+"""
+OUTPUT:
+Enter the string: qA2
+String contains alphanumeric characters: True
+String contains alphabetical characters: True
+String contains digits: True
+String contains lower alphabetical characters: True
+String contains upper alphabetical characters: True
+"""
