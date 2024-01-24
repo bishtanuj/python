@@ -55,3 +55,10 @@ if __name__ == '__main__':
         items.display()
     else:
         print("Enter the positive range only!!")
+
+
+'''
+OUTPUT:
+Enter the range of fibonacci series: 10
+Fibonacci Series: 0 1 1 2 3 5 8 13 21 34 
+'''
