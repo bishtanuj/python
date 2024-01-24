@@ -41,3 +41,9 @@ if __name__ == '__main__':
     items.insertion(97)
     print("Elements of Linked List:", end=" ")
     items.display()
+
+
+'''
+OUTPUT:
+Elements of Linked List: 12 13 51 97 
+'''
