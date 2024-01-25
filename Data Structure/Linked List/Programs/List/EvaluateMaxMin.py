@@ -52,7 +52,7 @@ class LinkedList:
                 minimum = current.data
             else:
                 current = current.next
-        print("\nMinimum Element:", minimum)
+        print("Minimum Element:", minimum)
 
 
 # driver
@@ -70,3 +70,11 @@ if __name__ == '__main__':
         print(i, end=" ")
     items.compute_max()
     items.compute_min()
+
+
+'''
+OUTPUT:
+Elements of Linked List: 17 79 45 49 98 72 3 
+Maximum Element: 98
+Minimum Element: 3
+'''
