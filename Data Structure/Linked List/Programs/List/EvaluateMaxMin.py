@@ -28,9 +28,8 @@ class LinkedList:
     def display(self):
         current = self.head
         while current:
-            value = current.data
+            print(current.data, end=" ")
             current = current.next
-            yield value
 
     # function to print the maximum element of linked list
     def compute_max(self):
@@ -66,8 +65,7 @@ if __name__ == '__main__':
     items.insertion(72)
     items.insertion(3)
     print("Elements of Linked List:", end=" ")
-    for i in items.display():
-        print(i, end=" ")
+    items.display()
     items.compute_max()
     items.compute_min()
 
