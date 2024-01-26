@@ -58,3 +58,10 @@ if __name__ == '__main__':
     linkedlist.display()
 
     print(f"\nSecond maximum element of the linked list: {linkedlist.compute_second_maximum()}")
+
+
+'''
+OUTPUT:
+Elements of linked list: 10 11 14 15 18 20 
+Second maximum element of the linked list: 18
+'''
