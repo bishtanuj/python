@@ -24,3 +24,14 @@ if __name__ == '__main__':
     for rows in range(dimension):
         matrix.append(list(map(int, input().rstrip().split())))
     print(f"Absolute difference of the diagonals of matrix: {diagonal_difference(matrix, dimension)}")
+
+
+'''
+OUTPUT:
+Enter the dimension of square matrix: 3
+Enter the elements of square matrix:
+1 2 3
+4 5 6
+9 8 9
+Absolute difference of the diagonals of matrix: 2
+'''
