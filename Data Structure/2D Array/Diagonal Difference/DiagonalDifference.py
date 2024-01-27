@@ -1,3 +1,6 @@
+# Program to calculate the absolute difference between the sums of diagonals of square matrix
+
+
 def diagonal_difference(array: list[list[int]], size: int) -> int:
     diagonal_1, diagonal_2 = 0, 0
     for i in range(size):
