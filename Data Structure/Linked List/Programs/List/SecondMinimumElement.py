@@ -61,3 +61,10 @@ if __name__ == '__main__':
     linkedlist.display()
 
     print(f"\nSecond minimum element of the linked list: {linkedlist.compute_second_minimum()}")
+
+
+"""
+OUTPUT:
+Elements of the linked list: 10 11 12 15 18 20 
+Second minimum element of the linked list: 11
+"""
