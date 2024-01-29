@@ -27,10 +27,13 @@ class LinkedList:
     # generator function to display the linked list
     def display(self):
         current = self.head
-        while current:
-            value = current.data
-            current = current.next
-            yield value
+        if self.head:
+            print("Elements of the linked list:", end=" ")
+            while current:
+                print(current.data, end=" ")
+                current = current.next
+        else:
+            print("Linked list is empty!!")
 
     # function to compute the middle element of linked list
     def compute_middle(self):
@@ -63,8 +66,7 @@ if __name__ == '__main__':
     items.insertion(13)
     items.insertion(14)
     items.insertion(80)
-    print("Elements of Linked List:", end=" ")
-    for i in items.display():
-        print(i, end=" ")
+
+    items.display()
     print("\nMiddle Element:", end=" ")
     items.compute_middle()
