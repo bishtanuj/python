@@ -24,7 +24,7 @@ class LinkedList:
             self.head = node
             self.tail = node
 
-    # generator function to display the linked list
+    # function to display the linked list
     def display(self):
         current = self.head
         if self.head:
