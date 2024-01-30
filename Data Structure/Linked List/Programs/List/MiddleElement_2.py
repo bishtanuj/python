@@ -57,3 +57,9 @@ if __name__ == '__main__':
     
     print("\nMiddle Element:", end=" ")
     items.compute_middle()
+
+"""
+OUTPUT:
+Elements of the linked list: 12 13 14 15 20 
+Middle Element: 14
+"""
