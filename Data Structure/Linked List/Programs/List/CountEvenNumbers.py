@@ -31,7 +31,7 @@ class LinkedList:
                 current = current.next
         else:
             print("Linked list is empty")
-            
+
     def count_even(self):
         count = 0
         current = self.head
@@ -55,4 +55,4 @@ if __name__ == '__main__':
 
     linkedlist.display()
 
-    print(f"Total even numbers in the linked list: {linkedlist.count_even()}")
+    print(f"\nTotal even numbers in the linked list: {linkedlist.count_even()}")
