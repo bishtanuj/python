@@ -56,3 +56,10 @@ if __name__ == '__main__':
     linkedlist.display()
 
     print(f"\nTotal even numbers in the linked list: {linkedlist.count_even()}")
+
+
+"""
+OUTPUT:
+Elements of the linked list: 12 14 15 16 18 19 20 
+Total even numbers in the linked list: 5
+"""
