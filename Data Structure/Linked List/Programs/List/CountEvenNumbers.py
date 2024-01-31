@@ -24,10 +24,14 @@ class LinkedList:
 
     def display(self):
         current = self.head
-        while current:
-            print(current.data, end=" ")
-            current = current.next
-
+        if self.head:
+            print("Elements of the linked list:", end=" ")
+            while current:
+                print(current.data, end=" ")
+                current = current.next
+        else:
+            print("Linked list is empty")
+            
     def count_even(self):
         count = 0
         current = self.head
@@ -49,7 +53,6 @@ if __name__ == '__main__':
     linkedlist.insertion(19)
     linkedlist.insertion(20)
 
-    print("Elements of linked list:", end=" ")
     linkedlist.display()
 
     print(f"Total even numbers in the linked list: {linkedlist.count_even()}")
