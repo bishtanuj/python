@@ -56,3 +56,12 @@ if __name__ == '__main__':
     linkedlist.display()
 
     print(f"\nNumber of odd elements in the linked list: {linkedlist.count_odd()}")
+
+
+"""
+OUTPUT:
+Elements of the linked list: 
+14->16->18->21->29->17->None
+
+Number of odd elements in the linked list: 3
+"""
