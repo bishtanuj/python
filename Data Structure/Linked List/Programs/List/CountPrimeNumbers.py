@@ -62,3 +62,16 @@ if __name__ == '__main__':
 
     linkedlist.display()
     linkedlist.count_prime()
+
+
+"""
+OUTPUT:
+Enter the total elements of the linked list: 5
+Enter Element 1: 10
+Enter Element 2: 9
+Enter Element 3: 8
+Enter Element 4: 7
+Enter Element 5: 25
+Elements of the linked list: 10 9 8 7 25 
+Total prime numbers in the Linked list: 1
+"""
