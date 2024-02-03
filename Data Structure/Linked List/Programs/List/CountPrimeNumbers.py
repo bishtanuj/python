@@ -37,7 +37,7 @@ class LinkedList:
                 if self.check_prime(current.data):
                     count += 1
                 current = current.next
-            return count
+            print("\nTotal prime numbers in the Linked list:", count)
         else:
             print("Linked List is empty!!")
     
@@ -55,13 +55,10 @@ class LinkedList:
 if __name__ == '__main__':
     linkedlist = LinkedList()
 
-    linkedlist.insertion(12)
-    linkedlist.insertion(14)
-    linkedlist.insertion(15)
-    linkedlist.insertion(19)
-    linkedlist.insertion(23)
+    total_elements = int(input("Enter the total elements of the linked list: "))
+    for i in range(1, total_elements+1):
+        element = int(input(f"Enter Element {i}: "))
+        linkedlist.insertion(element)
 
     linkedlist.display()
-
-    print(f"\nTotal prime numbers in a linked list: {linkedlist.count_prime()}")
-    
+    linkedlist.count_prime()
