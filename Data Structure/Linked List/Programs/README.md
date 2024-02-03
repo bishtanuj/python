@@ -10,4 +10,4 @@
 |  7.  |  [Middle Element - 2](/Data%20Structure/Linked%20List/Programs/List/MiddleElement_2.py)  |  ***Program to print the middle element of the linked list.***  |
 |  8.  |  [Count Even Numbers](/Data%20Structure/Linked%20List/Programs/List/CountEvenNumbers.py)  |  ***Program to count the even numbers in the linked list***  |
 |  9.  |  [Count Odd Numbers](/Data%20Structure/Linked%20List/Programs/List/CountOddNumbers.py)  |  ***Program to count the odd numbers in the linked list***  |
-|  10.  |  []()  |
+|  10.  |  [Count Prime Numbers]()  |
