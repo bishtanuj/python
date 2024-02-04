@@ -22,3 +22,12 @@ if __name__ == '__main__':
         print(f"{number} is not a prime number")
 
 
+"""
+OUTPUT 1:
+Enter the number: 12
+12 is not a prime number
+
+OUTPUT 2:
+Enter the number: 71
+71 is a prime number
+"""
