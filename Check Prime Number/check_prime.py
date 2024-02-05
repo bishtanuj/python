@@ -1,5 +1,3 @@
-# Program to check whehter the number is prime or not
-
 # Program to check whether the number is prime or not
 
 # function to check prime
