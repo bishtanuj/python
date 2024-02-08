@@ -13,5 +13,5 @@ These are primitive data types which can hold the single value. For example: int
 
 ### Non-primitive Data Structure
 These are further divided into two parts:
-&emsp; * Linear Data Strucutre
-&emsp; * Non - Linear Data Structure
+&emsp; [*] Linear Data Strucutre
+&emsp; [*] Non - Linear Data Structure
