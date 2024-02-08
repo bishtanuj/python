@@ -15,3 +15,8 @@ These are primitive data types which can hold the single value. For example: int
 These are further divided into two parts:
 - Linear Data Strucutre
 - Non - Linear Data Structure
+
+#### Linear Data Structure
+- It is a type of data structure where the arrangement of data is such that the each element is directly connected to its previous and next elements. <br> For example: Arrays, Linked List, Queue, Stack.
+- All the elements in the linear data structure can be traversed in single run.
+
