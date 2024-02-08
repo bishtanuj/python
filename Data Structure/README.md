@@ -4,8 +4,8 @@
 
 To structure the data many algorithms were proposed, which are known as **abstract data type.**
 
-### There are two types of data structures:
+## There are two types of data structures:
 * Primitive Data Structure
 * Non-primitive Data Structure
 
-#### Primitive Data Structure
+### Primitive Data Structure
