@@ -17,6 +17,10 @@ These are further divided into two parts:
 - Non - Linear Data Structure
 
 #### Linear Data Structure
-- It is a type of data structure where the arrangement of data is such that the each element is directly connected to its previous and next elements. <br> For example: Arrays, Linked List, Queue, Stack.
+- It is a type of data structure where the arrangement of data is such that the each element is directly connected to its previous and next elements. <br> For example: Array, Linked List, Queue, Stack.
 - All the elements in the linear data structure can be traversed in single run.
+
+#### Non - Linear Data Structure
+- It is a type of data structure where the arrangement of data is such that the each element is directly connected with more than one element. <br> For example: Trees, Graphs.
+- All the elements in the non - linear data structure can not be traversed in a single run.
 
