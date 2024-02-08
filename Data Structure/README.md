@@ -4,8 +4,14 @@
 
 To structure the data many algorithms were proposed, which are known as **abstract data type.**
 
-## There are two types of data structures:
+## There are two types of data structures
 * Primitive Data Structure
 * Non-primitive Data Structure
 
 ### Primitive Data Structure
+These are primitive data types which can hold the single value. For example: int, char, float, double.
+
+### Non-primitive Data Structure
+These are further divided into two parts:
+&emsp; * Linear Data Strucutre
+&emsp; * Non - Linear Data Structure
