@@ -34,6 +34,7 @@ We see it everyday and almost everywhere. It's used extenssively to implement co
 Many <b> developing tools </b> are implemented in Python. More and more <b> everyday use applications </b> are being written in Python. Lots of <b> scientists </b> have abandoned expensive proprietary tools and switched to Python. Lots of IT project <b> testers </b> have started using Python to carry out repeatable test procedures. The list is long.
 
 [:next_track_button:](/Basic%20Syntax/README.md)
+⏭
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
