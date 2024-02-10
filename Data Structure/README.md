@@ -24,3 +24,6 @@ These are further divided into two parts:
 - It is a type of data structure where the arrangement of data is such that the each element is directly connected with more than one element. <br> For example: Trees, Graphs.
 - All the elements in the non - linear data structure can not be traversed in a single run.
 
+### Data Structure can also be classified as:
+1. Static Data Structure
+2. Dyna,ic Data Structure
