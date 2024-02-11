@@ -22,3 +22,9 @@ if __name__ == '__main__':
     # print the list of duplicate elements
     print(f"Duplicate elements in the list: {find_duplicates(numbers)}")
     
+
+"""
+OUTPUT:
+Enter the elements of the list: 2 1 2 5 3 6 4 1 9 8 7
+Duplicate elements in the list: [2, 1]
+"""
