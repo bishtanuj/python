@@ -15,3 +15,12 @@ if __name__ == '__main__':
     print(f"List: {array}")
     bubble_sort(array, N)
     print(f"Sorted List: {array}")
+
+
+"""
+OUTPUT:
+Enter the total number of elements: 5
+Enter the 5 element(s) of the list: 9 8 7 1 2
+List: [9, 8, 7, 1, 2]
+Sorted List: [1, 2, 7, 8, 9]
+"""
