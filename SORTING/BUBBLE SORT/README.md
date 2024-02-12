@@ -4,7 +4,7 @@ _It is a sorting algorithm, works on the repeatedly swapping of adjacent element
 
 _It is simple to use, but primarily used for educational purpose only because of its high time complexity in the real world. It is not suitable for large datasets._
 
-#### Time Complexity
+### Time Complexity
 _Average Case: O_($n^2$)
 
 _Worst Case: O_($n^2$)
