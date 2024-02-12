@@ -8,6 +8,7 @@ def bubble_sort(nums: list[int], size: int):
                 nums[j], nums[j + 1] = nums[j + 1], nums[j]
 
 
+# driver
 if __name__ == '__main__':
     N = int(input("Enter the total number of elements: "))
     array = list(map(int, input(f"Enter the {N} element(s) of the list: ").split()))[:N]
