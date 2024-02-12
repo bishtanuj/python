@@ -3,7 +3,7 @@ Arranging elements in a specific order either in ascending or in descending orde
 
 ## Some Important Terminologies
 ### INPLACE SORT
-_Extra space required in range between O(1) to O($logn$) including O($logn$)_.<br>
+_Extra space required in range between O_($1$) _to O_($logn$) _including O_($logn$).<br>
 Example: Bubble, Selection, Insertion, Heap sort etc.
 
 ### STABLE SORT
