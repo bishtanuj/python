@@ -6,4 +6,5 @@ _It is simple to use, but primarily used for educational purpose only because of
 
 #### Time Complexity
 _Average Case: O_($n^2$)
+
 _Worst Case: O_($n^2$)
