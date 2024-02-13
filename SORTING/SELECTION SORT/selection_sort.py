@@ -11,6 +11,7 @@ def selection_sort(nums: list[int], size: int):
             nums[i], nums[min_index] = nums[min_index], nums[i]
 
 
+# driver
 if __name__ == '__main__':
     N = int(input("Enter the total number of elements: "))
     num = list(map(int, input(f"Enter {N} element(s) of the list: ").split()))[:N]
