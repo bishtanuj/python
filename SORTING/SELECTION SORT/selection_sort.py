@@ -18,3 +18,12 @@ if __name__ == '__main__':
     print(f"List: {num}")
     selection_sort(num, N)
     print(f"Sorted List: {num}")
+
+
+"""
+OUTPUT:
+Enter the total number of elements: 5
+Enter 5 element(s) of the list: 9 8 6 1 4
+List: [9, 8, 6, 1, 4]
+Sorted List: [1, 4, 6, 8, 9]
+"""
