@@ -8,3 +8,5 @@ _In selection sort, the first smallest element is selected from the unsorted arr
 _Average Case: O_($n^2$)
 
 _Worst Case: O_($n^2$)
+
+_where,_ $n$ _is the number of elements_
