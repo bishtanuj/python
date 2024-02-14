@@ -7,5 +7,5 @@ _Extra space required in range between O_($1$) _to O_($logn$) _including O_($log
 Example: Bubble, Selection, Insertion, Heap sort etc.
 
 ### STABLE SORT
-The order of the repeated elements is not changed after sorting, then that sorting is called stable sort. <br>
+_The order of the repeated elements is not changed after sorting, then that sorting is called stable sort._ <br>
 Example: Bubble, Insertion, Merge, Counting, Radix sort etc.
