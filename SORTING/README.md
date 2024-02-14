@@ -1,5 +1,5 @@
-# SORTING
-Arranging elements in a specific order either in ascending or in descending order is known as sorting.
+# _SORTING_
+_Arranging elements in a specific order either in ascending or in descending order is known as sorting._
 
 ## Some Important Terminologies
 ### INPLACE SORT
