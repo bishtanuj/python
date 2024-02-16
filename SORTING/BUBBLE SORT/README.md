@@ -9,4 +9,4 @@ _Average Case:_ $O(n^2)$
 
 _Worst Case:_ $O(n^2)$
 
-_where **n** is the number of elements_
+_where_ $n$ _is the number of elements_
