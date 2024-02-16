@@ -4,7 +4,7 @@ _Selection sort is the technique of sorting, that selects the smallest element a
 
 _In selection sort, the first smallest element is selected from the unsorted array and placed at the first position. After that second smallest element is selected and placed in the second position. The process continues until the array is entirely sorted._
 
-It is simple to use, but primarily used for educational purpose only because of its high time complexity in the real world. It is not suitable for large datasets.
+It is simple to use, but primarily used for educational purpose only because of its high time complexity in the real world, therefore, it is not suitable for large datasets.
 
 ### Time Complexity
 _Average Case: O_($n^2$)
