@@ -8,4 +8,4 @@ $Example:$ Bubble, Selection, Insertion, Heap sort etc.
 
 ### STABLE SORT
 _The order of the repeated elements is not changed after sorting, then that sorting is called stable sort._ <br>
-Example: Bubble, Insertion, Merge, Counting, Radix sort etc.
+$Example:$ Bubble, Insertion, Merge, Counting, Radix sort etc.
