@@ -10,7 +10,7 @@
 2. [Double Factorial](/MISCELLANEOUS%20PROBLEMS/Double%20Factorial)
 3. [Exponential Factorial](/MISCELLANEOUS%20PROBLEMS/Exponential%20Factorial)
 
-### Play With Strings
+### $Play$ $With$ $Strings$
 1. [Calculate Words, Consonants and Vowels](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/cons_vowel_words.py)
 2. Palindrome Number <br>
 &emsp;&emsp; a) [Classical Method](/MISCELLANEOUS%20PROBLEMS/Play%20With%20Strings/palindrome_number_1.py)
