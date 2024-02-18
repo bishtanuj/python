@@ -1,4 +1,4 @@
-# MISCELLANEOUS PROBLEMS
+# _MISCELLANEOUS PROBLEMS_
 
 ### $Generalization$ $of$ $Fibonacci$ $Numbers$
 1. [Fibonacci Series](/MISCELLANEOUS%20PROBLEMS/Fibonacci%20Series/fibonacci_Series.py)
