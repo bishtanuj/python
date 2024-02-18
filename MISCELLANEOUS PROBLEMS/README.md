@@ -1,6 +1,6 @@
 # MISCELLANEOUS PROBLEMS
 
-### Generalization of Fibonacci Numbers
+### $Generalization$ $of$ $Fibonacci$ $Numbers$
 1. [Fibonacci Series](/MISCELLANEOUS%20PROBLEMS/Fibonacci%20Series/fibonacci_Series.py)
 2. [Tribonacci Series](/MISCELLANEOUS%20PROBLEMS/Tribonacci%20Series)
 3. [Tetranacci Series](/MISCELLANEOUS%20PROBLEMS/Tetranacci%20Series/tetranacci_series.py)
