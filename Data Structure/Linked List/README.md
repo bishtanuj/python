@@ -13,4 +13,4 @@ class Node:
 ```
 
 ### Programs
-[Visit here! to study the programs of the linked list.](https://github.com/bishtanuj/python/tree/main/Data%20Structure/Linked%20List/Programs#list-of-programs)
+[Visit here!](https://github.com/bishtanuj/python/tree/main/Data%20Structure/Linked%20List/Programs#list-of-programs) - To study the programs of the linked list.
