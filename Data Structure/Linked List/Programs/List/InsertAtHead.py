@@ -1,4 +1,4 @@
-# Program to add elements of the linked list from the head
+# Program to add node of the linked list from the head
 
 # class to create a node
 class Node:
