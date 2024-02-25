@@ -12,3 +12,4 @@
 |  9.  |  [Count Odd Numbers](/Data%20Structure/Linked%20List/Programs/List/CountOddNumbers.py)  |  ***Program to count the odd numbers in the linked list***  |
 |  10.  |  [Count Prime Numbers](/Data%20Structure/Linked%20List/Programs/List/CountPrimeNumbers.py)  |  ***Programs to count the prime numbers in the linked list.***  |
 |  11.  |  [Insert From Head](/Data%20Structure/Linked%20List/Programs/List/InsertAtHead.py)  |  ***Program to insert a node of the linked list from the head.***  |
+|  12.  |  |  |
