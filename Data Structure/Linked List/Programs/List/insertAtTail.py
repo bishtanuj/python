@@ -1,4 +1,4 @@
-# Program to insert the elements of the linked list from the tail
+# Program to insert a node of the linked list from the tail
 
 # class to create a node
 class Node:
