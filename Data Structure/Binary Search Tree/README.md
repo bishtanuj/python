@@ -15,7 +15,7 @@ class TreeNode:
 ```
 
 ### Properties of the Binary Search Tree (BST)
-**1. Ordered Structure**
+**1. Ordered Structure** <br>
 &emsp; * Each node in a BST has at most two children: a left child and a right child. <br>
 &emsp: * The left child contains values less than the parent node, while the right child contains values greater than the parent node. <br>
 &emsp; * This hierarchical arrangement ensures that the tree is sorted.
