@@ -11,6 +11,12 @@ class Node:
     self.data = data
     self.next = None
 ```
+```md
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+```
 
 ### Programs
 👉 [Visit here!](https://github.com/bishtanuj/python/tree/main/Data%20Structure/Linked%20List/Programs#list-of-programs) - To study the programs of the linked list.
