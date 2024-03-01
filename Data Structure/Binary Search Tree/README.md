@@ -27,4 +27,4 @@ class TreeNode:
 **3. Search Efficiency:** 
   * BSTs allow for efficient searching operations.
   * When searching for a specific value, we can traverse the tree by comparing the target value with the current node's value and moving left or right accordingly.
-  * The search time complexity is logarithmic $O(log$ $n)$ on average, where $'n'$ is the number of nodes in the tree.
+  * The search time complexity is logarithmic $O(log$ $n)$ on average, where '$n$' is the number of nodes in the tree.
