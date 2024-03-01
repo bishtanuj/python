@@ -20,4 +20,8 @@ class TreeNode:
 &emsp; - The left child contains values less than the parent node, while the right child contains values greater than the parent node. <br>
 &emsp; - This hierarchical arrangement ensures that the tree is sorted.
 
-**2. No Duplicate Values**
+**2. No Duplicate Values** <br>
+&emsp; - In a BST, there are no duplicate values.
+&emsp; - Each value appears only once in the tree.
+
+**3. Search Efficiency:** <br>
