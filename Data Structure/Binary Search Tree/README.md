@@ -16,12 +16,12 @@ class TreeNode:
 
 ### Properties of the Binary Search Tree (BST)
 **1. Ordered Structure**
-  * Each node in a BST has at most two children: a left child and a right child. <br>
-  * The left child contains values less than the parent node, while the right child contains values greater than the parent node. <br>
+  * Each node in a BST has at most two children: a left child and a right child.
+  * The left child contains values less than the parent node, while the right child contains values greater than the parent node.
   * This hierarchical arrangement ensures that the tree is sorted.
 
 **2. No Duplicate Values**
-  * In a BST, there are no duplicate values. <br>
+  * In a BST, there are no duplicate values. 
   * Each value appears only once in the tree.
 
 **3. Search Efficiency:** <br>
