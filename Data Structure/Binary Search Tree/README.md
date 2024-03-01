@@ -21,7 +21,7 @@ class TreeNode:
 &emsp; - This hierarchical arrangement ensures that the tree is sorted.
 
 **2. No Duplicate Values** <br>
-&emsp; - In a BST, there are no duplicate values.
+&emsp; - In a BST, there are no duplicate values. <br>
 &emsp; - Each value appears only once in the tree.
 
 **3. Search Efficiency:** <br>
