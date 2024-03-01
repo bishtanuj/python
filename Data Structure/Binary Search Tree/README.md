@@ -12,5 +12,7 @@ class TreeNode:
     self.data = data
     self.left = None
     self.right = None
-
 ```
+
+### Properties of the binary search tree
+1. Ordered Structure
