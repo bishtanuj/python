@@ -42,3 +42,5 @@ class TreeNode:
     self.left = None
     self.right = None
 ```
+
+### Traversal in Binary Search Tree
