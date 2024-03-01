@@ -24,7 +24,7 @@ class TreeNode:
   * In a BST, there are no duplicate values. 
   * Each value appears only once in the tree.
 
-**3. Search Efficiency:** <br>
-  * BSTs allow for efficient searching operations. <br>
-#^ - When searching for a specific value, we can traverse the tree by comparing the target value with the current node's value and moving left or right accordingly. <br>
-&emsp; - The search time complexity is logarithmic $O(log n)$ on average, where $n$ is the number of nodes in the tree.
+**3. Search Efficiency:** 
+  * BSTs allow for efficient searching operations.
+  * When searching for a specific value, we can traverse the tree by comparing the target value with the current node's value and moving left or right accordingly.
+  * The search time complexity is logarithmic $O(log n)$ on average, where $n$ is the number of nodes in the tree.
