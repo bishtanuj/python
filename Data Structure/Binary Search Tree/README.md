@@ -15,4 +15,4 @@ class TreeNode:
 ```
 
 ### Properties of the binary search tree
-1. Ordered Structure
+$1. Ordered Structure$
