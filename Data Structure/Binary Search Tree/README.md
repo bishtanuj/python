@@ -44,3 +44,9 @@ class TreeNode:
 ```
 
 ### Traversal in Binary Search Tree
+There are three types of traversal in binary search tree and they are as follows:
+ * Inorder Traversal
+ * Preorder Traversal
+ * Postorder Traversal
+
+
