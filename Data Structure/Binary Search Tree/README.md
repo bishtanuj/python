@@ -49,4 +49,4 @@ _There are three types of traversal in binary search tree and they are as follow
  * _Preorder Traversal_
  * _Postorder Traversal_
 
-
+ **Pseudocode for inorder traversal**
