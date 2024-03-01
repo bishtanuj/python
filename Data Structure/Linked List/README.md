@@ -7,12 +7,6 @@ _The representation of a linked list depicts that each node consist of two field
 ### Creation of the node
 ```md
 class Node:
-  def __init__(self, data):
-    self.data = data
-    self.next = None
-```
-```md
-class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
