@@ -19,3 +19,5 @@ class TreeNode:
 &emsp; - Each node in a BST has at most two children: a left child and a right child. <br>
 &emsp; - The left child contains values less than the parent node, while the right child contains values greater than the parent node. <br>
 &emsp; - This hierarchical arrangement ensures that the tree is sorted.
+
+**2. No Duplicate Values**
