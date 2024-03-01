@@ -11,7 +11,6 @@ class Node:
     self.data = data
     self.next = None
 ```
-https://github.com/bishtanuj/python/blob/1f0315094454a3e416cb232428ddff3c44565f2b/Data%20Structure/Linked%20List/Programs/List/CreateLinkedList.py#L4C1-L7C25
 
 ### Programs
 👉 [Visit here!](https://github.com/bishtanuj/python/tree/main/Data%20Structure/Linked%20List/Programs#list-of-programs) - To study the programs of the linked list.
