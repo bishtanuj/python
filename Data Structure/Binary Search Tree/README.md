@@ -29,6 +29,11 @@ class TreeNode:
   * When searching for a specific value, we can traverse the tree by comparing the target value with the current node's value and moving left or right accordingly.
   * The search time complexity is logarithmic $O(log$ $n)$ on average, where $n$ is the number of nodes in the tree.
 
-**4. Balanced BSTs:**
+**4. Insertion and Deletion:**
+  * Insertion and deletion of nodes in a BST maintain the sorted order.
+  * When inserting a new value, we follow the tree structure to find the appropriate position.
+  * When deleting a node, we rearrange the tree while preserving the BST properties.
+
+**5. Balanced BSTs:**
   * A balanced BST minimizes the height of the tree.
   * Balanced trees ensure efficient search, insertion, and deletion operations.
