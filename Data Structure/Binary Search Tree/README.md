@@ -34,6 +34,10 @@ class TreeNode:
   * When inserting a new value, we follow the tree structure to find the appropriate position.
   * When deleting a node, we rearrange the tree while preserving the BST properties.
 
-**5. Balanced BSTs:**
+**5. Inorder Traversal:**
+  * Inorder traversal of a BST visits the nodes in ascending order.
+  * Starting from the leftmost node, we visit each node's left subtree, then the node itself, and finally its right subtree.
+
+**6. Balanced BSTs:**
   * A balanced BST minimizes the height of the tree.
   * Balanced trees ensure efficient search, insertion, and deletion operations.
