@@ -36,7 +36,12 @@ _The representation of a linked list depicts that each node consist of two field
 
 ### Applications of linked list
   * Linked lists are used to implement various data structures, including:
-    * **Stacks**: Using singly linked list
+    * **Stacks**: Using singly linked lists.
+    * **Queues**: Using singly or doubly linked lists.
+    * **Graphs**: Representing adjacency lists.
+    * **Hash tables**: Handling collisions.
+    * **Dynamic memory allocation**: Efficiently managing memory.
+    * **Polynomial representation**: In algebric expressions.  
 
 ### Creation of the node
 ```md
