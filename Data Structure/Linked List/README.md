@@ -16,8 +16,8 @@ _The representation of a linked list depicts that each node consist of two field
 
 **3. Node Structure:**
   * A linked list consists of **nodes**, where each node contains two components:
-    * **Data**:
-    * 
+    * **Data**: The actual value or payload associated with the node.
+    * **Reference (Link)**: 
 
 
 ### Creation of the node
