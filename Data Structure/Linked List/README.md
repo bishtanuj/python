@@ -14,6 +14,11 @@ _The representation of a linked list depicts that each node consist of two field
   * By updating pointers, you can insert or delete elements from anywhere in the list.
   * This flexibility is especially useful when dealing with dynamic data.
 
+**3. Node Structure:**
+  * A linked list consists of **nodes**, where each node contains two components:
+    * **Data**:
+    * 
+
 
 ### Creation of the node
 ```md
