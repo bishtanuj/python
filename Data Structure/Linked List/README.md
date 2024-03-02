@@ -6,6 +6,7 @@ _The representation of a linked list depicts that each node consist of two field
 
 ### Properties of the linked list
 **1. Dynamic Size:**
+    * Unlike fixed - size arrays, linked list can expand or contract as needed during program execution.
 
 
 ### Creation of the node
