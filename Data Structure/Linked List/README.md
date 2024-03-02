@@ -4,6 +4,10 @@
 ### Representation of the linked list
 _The representation of a linked list depicts that each node consist of two fields. The first field consists of data, and the second field consists of pointer that point to another node._
 
+### Properties of the linked list
+**1. Dynamic Size:**
+
+
 ### Creation of the node
 ```md
 class Node:
