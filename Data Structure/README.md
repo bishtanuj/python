@@ -27,3 +27,5 @@ These are further divided into two parts:
 ### Data Structure can also be classified as:
 1. Static Data Structure
 2. Dynamic Data Structure
+
+---
