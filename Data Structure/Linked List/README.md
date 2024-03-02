@@ -25,7 +25,9 @@ _The representation of a linked list depicts that each node consist of two field
   * However, they consume extra memory because they use pointers to keep track of the next successive node.
 
 ### Advantages of the linked list
-  1. **Dynamic memory allocation**
+  1. **Dynamic memory allocation**: Linked lists allow efficient allocation and deallocation of memory.
+  2. **Insertion and deletion**: These operations are faster compared to arrays.
+  3. **No fixed size**: Linked list adapt to changing data requirements.
 
 
 ### Creation of the node
