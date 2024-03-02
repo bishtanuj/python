@@ -6,8 +6,8 @@ _The representation of a linked list depicts that each node consist of two field
 
 ### Properties of the linked list
 **1. Dynamic Size:**
-    * Unlike fixed - size arrays, linked list can expand or contract as needed during program execution.
-    * This dynamic sizing makes linked lists suitable for scenarios where the number of elements can change over time.
+   * Unlike fixed - size arrays, linked list can expand or contract as needed during program execution.
+   * This dynamic sizing makes linked lists suitable for scenarios where the number of elements can change over time.
 ### Creation of the node
 ```md
 class Node:
