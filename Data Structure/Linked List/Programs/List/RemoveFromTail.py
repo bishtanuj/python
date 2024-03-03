@@ -52,3 +52,10 @@ if __name__ == '__main__':
 
     linkedlist.delete_from_tail()
     linkedlist.display()
+
+
+"""
+OUTPUT:
+Linked List: 1->2->3->4->5->6->7->8->9->10->11->None
+Linked List: 1->2->3->4->5->6->7->8->9->10->None
+"""
