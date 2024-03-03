@@ -1,5 +1,3 @@
-# Program to delete a node of the linked list from the head
-
 # Program to remove the node from the head
 
 # class to create a node
