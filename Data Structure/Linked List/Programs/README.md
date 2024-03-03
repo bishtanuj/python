@@ -13,4 +13,4 @@
 |  10.  |  [Count Prime Numbers](/Data%20Structure/Linked%20List/Programs/List/CountPrimeNumbers.py)  |  ***Programs to count the prime numbers in the linked list.***  |
 |  11.  |  [Insert From Head](/Data%20Structure/Linked%20List/Programs/List/InsertAtHead.py)  |  ***Program to insert a node of the linked list from the head.***  |
 |  12.  |  [Insert From Tail](/Data%20Structure/Linked%20List/Programs/List/InsertAtTail.py)  |  ***Program to insert a node of the linked list from the tail.***  |
-|  13.  |  [Delete From Head]()  |  ***Program to delete a node of the linked list from the head.***  |
+|  13.  |  [Delete From Head](/Data%20Structure/Linked%20List/Programs/List/RemoveFromHead.py)  |  ***Program to delete a node of the linked list from the head.***  |
