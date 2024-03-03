@@ -1,4 +1,4 @@
-### List of Programs
+### List of Programs of Linked List
 ---
 |  S.No.  | Programs  | Query |
 |  :--:  |  :--  |  :--  |
