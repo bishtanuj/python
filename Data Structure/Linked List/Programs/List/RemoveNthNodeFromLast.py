@@ -72,3 +72,9 @@ if __name__ == '__main__':
 
     linkedlist.remove_nth_element_from_end(2)
     linkedlist.display()
+
+"""
+OUTPUT:
+Linked List: 1->2->3->4->5->None
+Linked List: 1->2->3->5->None
+"""
