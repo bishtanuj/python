@@ -3,5 +3,5 @@
 ---
 |  S. No.  |  Programs  |  Query  |
 |  :--:  |  :--:  |  :--:  |
-|  1.  |  [Create a Binary Search Tree]()  |  |
+|  1.  |  [Create a Binary Search Tree]()  |  ***Program to create a binary search tree.***  |
 
