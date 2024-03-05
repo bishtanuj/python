@@ -1,3 +1,3 @@
-### List of Programs
+### List of Programs of Binary Search Tree
 
 ---
