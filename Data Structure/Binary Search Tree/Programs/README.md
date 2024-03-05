@@ -3,5 +3,5 @@
 ---
 |  S. No.  |  Programs  |  Query  |
 |  :--:  |  :--:  |  :--:  |
-|  1.  |  []()  |  |
+|  1.  |  [Create a Binary Search Tree]()  |  |
 
