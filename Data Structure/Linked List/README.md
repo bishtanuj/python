@@ -1,4 +1,4 @@
-# Linked List
+# _Linked List_
 ***A linked list is a linear data structure that stores a collection of data elements dynamically.***
 
 ### Representation of the linked list
