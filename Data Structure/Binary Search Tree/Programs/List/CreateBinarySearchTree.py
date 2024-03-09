@@ -46,5 +46,8 @@ if __name__ == '__main__':
     
     print("Inorder traversal of the Binary Search Tree:", end=" ")
     bst.inorder(bst.root)
-  
-    
+
+"""
+OUTPUT:
+Inorder traversal of the Binary Search Tree: 1 2 4 12 14 18
+"""
