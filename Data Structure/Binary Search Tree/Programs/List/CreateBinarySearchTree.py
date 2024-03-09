@@ -32,4 +32,19 @@ class BinarySearchTree:
             self.inorder(root.left)
             print(root.data, end=" ")
             self.inorder(root.right)
+
+
+if __name__ == '__main__':
+    bst = BinarySearchTree()
+    
+    bst.insertion(12)
+    bst.insertion(14)
+    bst.insertion(18)
+    bst.insertion(2)
+    bst.insertion(4)
+    bst.insertion(1)
+    
+    print("Inorder traversal of the Binary Search Tree:", end=" ")
+    bst.inorder(bst.root)
+  
     
