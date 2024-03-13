@@ -48,3 +48,8 @@ if __name__ == '__main__':
     
     print("Inorder traversal of bianry search tree:", end=" ")
     bst.inorder(bst.root)
+
+"""
+OUTPUT:
+Inorder traversal of bianry search tree: 2 4 6 10 12 18 20 36
+"""
