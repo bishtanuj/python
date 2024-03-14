@@ -48,3 +48,8 @@ if __name__ == '__main__':
     print("Preorder traversal of the the binary search tree:", end=" ")
     bst.preorder(bst.root)
   
+
+"""
+OUTPUT:
+Preorder traversal of the the binary search tree: 12 14 22 24 26 48 46
+"""
