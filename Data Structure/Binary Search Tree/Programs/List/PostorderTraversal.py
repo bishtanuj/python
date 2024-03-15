@@ -45,3 +45,8 @@ if __name__ == '__main__':
     
     print("Postorder traversal of the binary search tree:", end=" ")
     bst.postorder(bst.root)
+
+"""
+OUTPUT:
+Postorder traversal of the binary search tree: 18 16 40 180 120
+"""
