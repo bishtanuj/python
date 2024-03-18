@@ -11,9 +11,9 @@ _The representation of a binary search tree depicts that each node consists of t
     * The left child contains values less than the parent node, while the right child contains values greater than the parent node.
     * This hierarchical arrangement ensures that the tree is sorted.
 
-**2. No Duplicate Values**
-  * In a BST, there are no duplicate values. 
-  * Each value appears only once in the tree.
+2. **No Duplicate Values**
+      * In a BST, there are no duplicate values. 
+      * Each value appears only once in the tree.
 
 **3. Search Efficiency:** 
   * BSTs allow for efficient searching operations.
