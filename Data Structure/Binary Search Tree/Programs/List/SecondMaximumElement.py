@@ -53,3 +53,8 @@ if __name__ == '__main__':
     bst.insert(12)
     
     print("Second maximum element of the binary search tree:", bst.compute_second_maximum())
+
+"""
+OUTPUT:
+Second maximum element of the binary search tree: 30
+"""
