@@ -7,5 +7,6 @@
 |  2.  |  [Inorder Traversal of the Binary Search Tree](/Data%20Structure/Binary%20Search%20Tree/Programs/List/InorderTraversal.py)  |  ***Program to print the elements of binary search tree in inorder traversal.***  |
 |  3.  |  [Preorder Traversal of the Binary Search Tree](/Data%20Structure/Binary%20Search%20Tree/Programs/List/PreorderTraversal.py)  |  ***Program to print the elements of binary search tree in preorder traversal.***  |
 |  4.  |  [Postorder Traversal of the Binary Search Tree](/Data%20Structure/Binary%20Search%20Tree/Programs/List/PostorderTraversal.py)  |  ***Program to print the elements of binary search tree in postorder traversal.***  |
+|  5.  |  [Second Maximum]()  |  |
 ---
 
