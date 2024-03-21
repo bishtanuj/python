@@ -8,6 +8,6 @@
 |  3.  |  [Preorder Traversal of the Binary Search Tree](/Data%20Structure/Binary%20Search%20Tree/Programs/List/PreorderTraversal.py)  |  ***Program to print the elements of binary search tree in preorder traversal.***  |
 |  4.  |  [Postorder Traversal of the Binary Search Tree](/Data%20Structure/Binary%20Search%20Tree/Programs/List/PostorderTraversal.py)  |  ***Program to print the elements of binary search tree in postorder traversal.***  |
 |  5.  |  [Second Maximum](/Data%20Structure/Binary%20Search%20Tree/Programs/List/SecondMaximumElement.py)  |  ***Program to print the second maximum element of the binary search tree.***  |
-|  6.  |  [Second Minimum]()  |  |
+|  6.  |  [Second Minimum](/Data%20Structure/Binary%20Search%20Tree/Programs/List/SecondMinimumElement.py)  |  |
 ---
 
