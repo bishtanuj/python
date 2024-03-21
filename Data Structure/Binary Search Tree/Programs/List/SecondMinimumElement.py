@@ -52,3 +52,8 @@ if __name__ == '__main__':
     bst.insert(40)
     
     print("Second minimum element of the binary search tree:", bst.compute_second_minimum())
+
+"""
+OUTPUT:
+Second minimum element of the binary search tree: 68
+"""
