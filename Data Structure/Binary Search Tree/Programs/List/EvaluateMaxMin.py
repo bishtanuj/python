@@ -48,3 +48,9 @@ if __name__ == '__main__':
     bst.insert(1)
 
     bst.compute_max_min()
+
+"""
+OUTPUT:
+Maximum element of the binary search tree: 35
+Minimum element of the binary search tree: 1
+"""
