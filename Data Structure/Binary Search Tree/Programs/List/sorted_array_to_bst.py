@@ -38,3 +38,9 @@ if __name__ == '__main__':
     result = bst.array_to_bst(nums)
     print("Inorder traversal of the binary search tree:", end=" ")
     bst.inorder(result)
+
+"""
+OUTPUT: 
+Enter the elements of the array: 5 8 2 0 7 9 3
+Inorder traversal of the binary search tree: 0 2 3 5 7 8 9
+"""
