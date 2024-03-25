@@ -52,3 +52,8 @@ if __name__ == '__main__':
 
     result = bst.sum_in_range(bst.root, low_range, high_range)
     print(f"Addition of elements in range {low_range} to {high_range}:", result)
+
+"""
+OUTPUT:
+Addition of elements in range 7 to 15: 32
+"""
