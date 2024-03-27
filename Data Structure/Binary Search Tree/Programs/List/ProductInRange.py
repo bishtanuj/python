@@ -50,3 +50,8 @@ if __name__ == '__main__':
 
     result = bst.product_in_range(bst.root, low_range, high_range)
     print(f"Product of elements in range {low_range} to {high_range}:", result)
+
+"""
+OUTPUT:
+Product of elements in range 1 to 8: 80
+"""
