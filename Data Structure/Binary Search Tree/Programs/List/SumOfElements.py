@@ -39,6 +39,7 @@ if __name__ == '__main__':
     bst.insert(10)
     bst.insert(25)
     bst.insert(15)
+    bst.insert(30)
 
     result = bst.sum_of_elements(bst.root)
     print("Sum of elements of the binary search tree:", result)
