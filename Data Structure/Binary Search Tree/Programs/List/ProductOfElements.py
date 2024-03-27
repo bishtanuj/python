@@ -44,3 +44,8 @@ if __name__ == '__main__':
 
     result = bst.product_of_elements(bst.root)
     print("Product of elements of the binary search tree:", result)
+
+"""
+OUTPUT:
+Product of elements of the binary search tree: 80
+"""
