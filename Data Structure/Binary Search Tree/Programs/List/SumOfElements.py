@@ -43,3 +43,8 @@ if __name__ == '__main__':
 
     result = bst.sum_of_elements(bst.root)
     print("Sum of elements of the binary search tree:", result)
+
+"""
+OUTPUT:
+Sum of elements of the binary search tree: 80
+"""
