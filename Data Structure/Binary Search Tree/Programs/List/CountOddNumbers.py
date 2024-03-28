@@ -51,3 +51,9 @@ if __name__ == '__main__':
 
     print("Inorder traversal of the binary search tree:", bst.inorder(bst.root))
     print("Total odd numbers in the binary search tree:", bst.count_odd())
+
+"""
+OUTPUT:
+Inorder traversal of the binary search tree: [1, 2, 12, 18, 24, 31, 36, 79]
+Total odd numbers in the binary search tree: 3
+"""
