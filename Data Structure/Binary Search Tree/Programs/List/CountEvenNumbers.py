@@ -50,3 +50,9 @@ if __name__ == '__main__':
 
     print("Inorder traversal of the binary search tree:", bst.inorder(bst.root))
     print("Total even numbers in the binary search tree:", bst.count_even())
+
+"""
+OUTPUT:
+Inorder traversal of the binary search tree: [9, 10, 12, 17, 18, 24, 35]
+Total even numbers in the binary search tree: 4
+"""
